@@ -1,6 +1,3 @@
-[TIER: PREMIUM]
-[PRICE: $12]
-
 # Blog-to-Social Content Converter
 
 ## Description

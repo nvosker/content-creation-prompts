@@ -1,6 +1,3 @@
-[TIER: STANDARD]
-[PRICE: $9]
-
 # Data-Driven Case Study Writer
 
 ## Description

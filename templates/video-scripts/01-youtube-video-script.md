@@ -1,6 +1,3 @@
-[TIER: PREMIUM]
-[PRICE: $12]
-
 # YouTube Video Script Generator
 
 ## Description

@@ -1,6 +1,3 @@
-[TIER: STANDARD]
-[PRICE: $9]
-
 # Customer Story-to-Content Generator
 
 ## Description

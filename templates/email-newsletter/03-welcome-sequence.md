@@ -1,6 +1,3 @@
-[TIER: PREMIUM]
-[PRICE: $12]
-
 # Welcome Sequence Generator
 
 ## Description

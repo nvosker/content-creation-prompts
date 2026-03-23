@@ -1,6 +1,3 @@
-[TIER: STANDARD]
-[PRICE: $9]
-
 # Research Insights-to-Guide Generator
 
 ## Description

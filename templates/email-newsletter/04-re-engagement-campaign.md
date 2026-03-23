@@ -1,6 +1,3 @@
-[TIER: STANDARD]
-[PRICE: $9]
-
 # Re-engagement Campaign Generator
 
 ## Description

@@ -1,6 +1,3 @@
-[TIER: PREMIUM]
-[PRICE: $12]
-
 # Sales Email Generator
 
 ## Description

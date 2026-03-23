@@ -1,6 +1,3 @@
-[TIER: PREMIUM]
-[PRICE: $12]
-
 # LinkedIn Post Generator
 
 ## Description
