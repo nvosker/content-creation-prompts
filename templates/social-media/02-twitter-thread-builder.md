@@ -1,3 +1,6 @@
+[TIER: STANDARD]
+[PRICE: $9]
+
 # Twitter/X Thread Builder
 
 ## Description

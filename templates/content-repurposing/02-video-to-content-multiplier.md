@@ -1,3 +1,6 @@
+[TIER: STANDARD]
+[PRICE: $9]
+
 # Video-to-Content Multiplier
 
 ## Description

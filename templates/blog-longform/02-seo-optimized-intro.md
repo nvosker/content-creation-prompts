@@ -1,3 +1,6 @@
+[TIER: STANDARD]
+[PRICE: $9]
+
 # SEO-Optimized Introduction Generator
 
 ## Description

@@ -1,3 +1,6 @@
+[TIER: STANDARD]
+[PRICE: $9]
+
 # Instagram Caption Writer
 
 ## Description

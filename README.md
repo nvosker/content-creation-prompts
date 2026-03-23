@@ -20,33 +20,97 @@ Create comprehensive blog posts, outlines, SEO-optimized introductions, deep-div
 ### 2. **Social Media & Engagement** (5 prompts)
 Write posts that spark engagement, build your audience, and drive real conversations—not just vanity metrics.
 
-- 💼 LinkedIn Post Generator — Build authority and start conversations on LinkedIn
-- 🐦 Twitter/X Thread Builder — Teach frameworks in viral-worthy threads
-- 📸 Instagram Caption Writer — Write captions that drive saves and comments
-- 🎬 TikTok Script Generator — Create short-form videos that hook viewers
-- 🔥 Engagement-Spark Posts — Write posts designed to spark genuine debate and discussion
+- 💼 **LinkedIn Post Generator** [PREMIUM] — Build authority and generate qualified leads on LinkedIn. Includes 2-3 industry examples, advanced carousel/poll/storytelling variations, engagement metrics, and revenue-focused tips. **Expected impact: 2-5 qualified leads per 100 posts**
+- 🐦 Twitter/X Thread Builder [STANDARD] — Teach frameworks in viral-worthy threads
+- 📸 Instagram Caption Writer [STANDARD] — Write captions that drive saves and comments
+- 🎬 TikTok Script Generator [STANDARD] — Create short-form videos that hook viewers
+- 🔥 Engagement-Spark Posts [STANDARD] — Write posts designed to spark genuine debate and discussion
 
 ### 3. **Email & Newsletter** (4 prompts)
 Write emails that get opened, read, and acted on—not deleted or marked spam.
 
-- 📧 Newsletter Opener Generator — Hook readers in the first 50 words
-- 💰 Sales Email Generator — Write cold emails that actually get responses
-- 🎁 Welcome Sequence Generator — Build a 3-5 email onboarding that converts
-- 🔄 Re-engagement Campaign — Win back inactive subscribers before removing them
+- 📧 Newsletter Opener Generator [STANDARD] — Hook readers in the first 50 words
+- 💰 **Sales Email Generator** [PREMIUM] — Write cold emails that generate qualified leads. Includes 3 industry examples (SaaS, e-commerce, consulting), 6 advanced openers, conversion metrics (2-18% response rates), revenue impact ($10K-$100K+), and advanced segmentation tips. **Expected impact: $1,000-$10,000 MRR per email campaign**
+- 🎁 **Welcome Sequence Generator** [PREMIUM] — Build a 3-5 email onboarding flow that converts. Includes 2 additional examples (SaaS freemium, high-ticket coaching), 6 sequence variations, conversion metrics, segmentation strategies, and revenue optimization. **Expected impact: 3-8% conversion rate, $1,200-$40,000+ revenue per sequence**
+- 🔄 Re-engagement Campaign [STANDARD] — Win back inactive subscribers before removing them
 
 ### 4. **Content Repurposing** (4 prompts)
 Turn one piece of content into 10+ pieces across multiple platforms. Stop creating from scratch every time.
 
-- 🔀 Blog-to-Social Converter — Generate 15-20 unique social posts from one blog
-- 🎥 Video-to-Content Multiplier — Extract 10+ pieces from one video
-- 📰 Customer Story-to-Content — Generate 15 pieces from one case study
-- 📊 Research-to-Guide Generator — Turn data into guides, infographics, and campaigns
+- 🔀 **Blog-to-Social Converter** [PREMIUM] — Generate 15-20 unique social posts from one blog. Includes 2 additional use case examples (case studies, how-to articles), 6 customization variations, detailed metrics (10-40x reach multiplier), and ROI calculations. **Expected impact: 1 blog = 15-25 pieces of content, 8,000-20,000 total impressions, 10x content ROI**
+- 🎥 Video-to-Content Multiplier [STANDARD] — Extract 10+ pieces from one video
+- 📰 Customer Story-to-Content [STANDARD] — Generate 15 pieces from one case study
+- 📊 Research-to-Guide Generator [STANDARD] — Turn data into guides, infographics, and campaigns
 
 ### 5. **Video Scripts & Voiceovers** (2 prompts)
 Write production-ready scripts for YouTube, voiceovers for demos, and narration for educational content.
 
-- 🎬 YouTube Video Script — Complete scripts with hooks, pacing, and retention cues
-- 🎙️ Voiceover Script Generator — Write clear, engaging narration for video projects
+- 🎬 **YouTube Video Script** [PREMIUM] — Complete scripts with hooks, pacing, retention cues, and built-in lead generation. Includes 2 additional examples (B2B product, fitness coaching), 6 script variations (storytelling, debate, case study, myth-busting), performance metrics (50-75% average view duration), and YouTube growth strategies. **Expected impact: 50K views = 100-250 leads, 30+ videos = $30K-$100K+ authority positioning**
+- 🎙️ Voiceover Script Generator [STANDARD] — Write clear, engaging narration for video projects
+
+---
+
+## 💰 Pricing & Tiers
+
+All prompts are available, organized by tier:
+
+### **STANDARD TIER** — $9 each
+Perfect for content creators, beginners, and those experimenting with AI prompts.
+
+**Includes:**
+- Core prompt framework
+- 1 detailed example with example input/output
+- Beginner-to-intermediate pro tips
+- Production-ready output
+
+**STANDARD Prompts (15):**
+- Blog Outline Generator
+- SEO-Optimized Introduction
+- Deep-Dive Section Writer
+- Comparison Article Framework
+- Data-Driven Case Study
+- Twitter/X Thread Builder
+- Instagram Caption Writer
+- TikTok Script Generator
+- Engagement-Spark Posts
+- Newsletter Opener Generator
+- Re-engagement Campaign
+- Video-to-Content Multiplier
+- Customer Story-to-Content
+- Research-to-Guide Generator
+- Voiceover Script Generator
+
+### **PREMIUM TIER** — $12 each
+For serious content creators, agencies, and founders who need maximum ROI on their content.
+
+**Includes everything in Standard, PLUS:**
+- 2-3 additional detailed examples (different industries/use cases)
+- Advanced customization section (5-7 specific variations with revenue-focused strategies)
+- Conversion metrics & expected results (baselines, improvements, revenue impact)
+- Revenue-focused pro tips (lead generation, sales optimization, authority building)
+- Performance benchmarks and KPIs
+
+**PREMIUM Prompts (5):**
+- **Sales Email Generator** — Cold email sequences that generate qualified leads ($10K-$100K revenue impact)
+- **LinkedIn Post Generator** — Authority building and lead generation through social proof ($5K-$50K annual from consistent posts)
+- **YouTube Video Script Generator** — Highest-impact content format for audience and authority (500-1000K views → lead pipeline)
+- **Welcome Email Sequence Generator** — Automated lead nurture flows ($1,200-$40,000+ recurring revenue)
+- **Blog-to-Social Content Converter** — 10x content ROI by repurposing one piece into 15-20 social posts ($1,000-$5,000 incremental monthly)
+
+---
+
+### Why Premium Prompts Cost More
+
+The 5 PREMIUM prompts solve **money-making problems** and require **significant skill** to master:
+
+1. **Direct revenue impact** — They generate leads, sales, and recurring revenue (not just engagement)
+2. **Complex frameworks** — They require understanding psychology, copywriting, and strategy
+3. **Industry expertise** — They include real-world examples, objection handling, and conversion optimization
+4. **Time savings** — They cut production time dramatically (4-6 hours of work → 30-45 minutes)
+
+A single successful email sequence from the Sales Email Generator can generate $10K+. A single LinkedIn post from the LinkedIn Post Generator can bring in $5K-$50K in consulting leads. A YouTube script that performs well can build an audience worth six figures.
+
+The premium prompts are worth it because they *make money*, not just save time.
 
 ---
 

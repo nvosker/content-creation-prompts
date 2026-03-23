@@ -1,3 +1,6 @@
+[TIER: STANDARD]
+[PRICE: $9]
+
 # Engagement-Spark Posts Generator
 
 ## Description

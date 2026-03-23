@@ -1,3 +1,6 @@
+[TIER: STANDARD]
+[PRICE: $9]
+
 # Deep-Dive Section Writer
 
 ## Description
