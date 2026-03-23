@@ -1,0 +1,537 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 4 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792]
+   /Contents 5 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> >>
+endobj
+5 0 obj
+<< /Length 5353 >>
+stream
+BT
+/F1 11 Tf
+36 756 Td
+0.200 0.200 0.200 rg
+([TIER: STANDARD] [PRICE: $9]) Tj
+ET
+BT
+/F2 24 Tf
+36 739 Td
+0.102 0.102 0.102 rg
+(Engagement-Spark Posts Generator) Tj
+ET
+BT
+/F2 16 Tf
+36 695 Td
+0.176 0.176 0.176 rg
+(Description) Tj
+ET
+BT
+/F1 11 Tf
+36 671 Td
+0.200 0.200 0.200 rg
+(Create social media posts designed to maximize comments, debate, and) Tj
+ET
+BT
+/F1 11 Tf
+36 658 Td
+0.200 0.200 0.200 rg
+(genuine interaction—not vanity metrics. Includes question frameworks and) Tj
+ET
+BT
+/F1 11 Tf
+36 645 Td
+0.200 0.200 0.200 rg
+(controversy tactics that spark real conversation.) Tj
+ET
+BT
+/F2 16 Tf
+36 620 Td
+0.176 0.176 0.176 rg
+(Prompt Text) Tj
+ET
+BT
+/F1 9 Tf
+36 590 Td
+0.102 0.102 0.102 rg
+(You are a social strategist who writes posts that spark genuine, thoughtful comments and debate.) Tj
+ET
+BT
+/F1 9 Tf
+36 579 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 568 Td
+0.102 0.102 0.102 rg
+(I want to create a post that: [GOAL - e.g., "start a debate about remote work", "get people sharing their struggles"]) Tj
+ET
+BT
+/F1 9 Tf
+36 557 Td
+0.102 0.102 0.102 rg
+(Platform: [PLATFORM - e.g., "LinkedIn", "Twitter", "Facebook", "Instagram"]) Tj
+ET
+BT
+/F1 9 Tf
+36 546 Td
+0.102 0.102 0.102 rg
+(Topic: [TOPIC - e.g., "best practices for hiring", "dealing with burnout"]) Tj
+ET
+BT
+/F1 9 Tf
+36 535 Td
+0.102 0.102 0.102 rg
+(Target audience: [WHO YOU'RE TALKING TO - e.g., "HR managers and founders", "creatives and entrepreneurs"]) Tj
+ET
+BT
+/F1 9 Tf
+36 524 Td
+0.102 0.102 0.102 rg
+(Angle: [ANGLE - e.g., "contrarian opinion", "vulnerable share", "lightning-rod question"]) Tj
+ET
+BT
+/F1 9 Tf
+36 513 Td
+0.102 0.102 0.102 rg
+(Post length: [LENGTH - e.g., "short and punchy", "300 words", "10 tweets"]) Tj
+ET
+BT
+/F1 9 Tf
+36 502 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 491 Td
+0.102 0.102 0.102 rg
+(Write a post that:) Tj
+ET
+BT
+/F1 9 Tf
+36 480 Td
+0.102 0.102 0.102 rg
+(1. Opens with a statement or question that creates mild tension or disagreement) Tj
+ET
+BT
+/F1 9 Tf
+36 469 Td
+0.102 0.102 0.102 rg
+(2. Reveals a contrarian take, personal struggle, or unpopular opinion) Tj
+ET
+BT
+/F1 9 Tf
+36 458 Td
+0.102 0.102 0.102 rg
+(3. Invites people to share *their* perspective \(not asking for likes/shares\)) Tj
+ET
+BT
+/F1 9 Tf
+36 447 Td
+0.102 0.102 0.102 rg
+(4. Makes people want to defend their position or share a story) Tj
+ET
+BT
+/F1 9 Tf
+36 436 Td
+0.102 0.102 0.102 rg
+(5. Feels authentic and vulnerable \(not corporate or preachy\)) Tj
+ET
+BT
+/F1 9 Tf
+36 425 Td
+0.102 0.102 0.102 rg
+(6. Acknowledges that there's no "one right answer") Tj
+ET
+BT
+/F1 9 Tf
+36 414 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 403 Td
+0.102 0.102 0.102 rg
+(Formula options:) Tj
+ET
+BT
+/F1 9 Tf
+36 392 Td
+0.102 0.102 0.102 rg
+(- The Hot Take: "Unpopular opinion: [contrarian statement]. Here's why most people get this wrong...") Tj
+ET
+BT
+/F1 9 Tf
+36 381 Td
+0.102 0.102 0.102 rg
+(- The Question: "Genuine question that I don't have an answer to: [topic]. What's your experience?") Tj
+ET
+BT
+/F1 9 Tf
+36 370 Td
+0.102 0.102 0.102 rg
+(- The Vulnerable Share: "I failed at [thing] for years. Here's why I was doing it wrong...") Tj
+ET
+BT
+/F1 9 Tf
+36 359 Td
+0.102 0.102 0.102 rg
+(- The Debate Frame: "[Opinion A] seems smart, but I think [Opinion B] for these reasons...") Tj
+ET
+BT
+/F1 9 Tf
+36 348 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 337 Td
+0.102 0.102 0.102 rg
+(Avoid:) Tj
+ET
+BT
+/F1 9 Tf
+36 326 Td
+0.102 0.102 0.102 rg
+(- Asking for likes/comments/shares) Tj
+ET
+BT
+/F1 9 Tf
+36 315 Td
+0.102 0.102 0.102 rg
+(- Fake controversy \(being edgy just for engagement\)) Tj
+ET
+BT
+/F1 9 Tf
+36 304 Td
+0.102 0.102 0.102 rg
+(- Posts that attack people \(different from attacking ideas\)) Tj
+ET
+BT
+/F1 9 Tf
+36 293 Td
+0.102 0.102 0.102 rg
+(- "What's your hot take?" or other low-effort questions) Tj
+ET
+BT
+/F1 9 Tf
+36 282 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 271 Td
+0.102 0.102 0.102 rg
+(Format as a social post ready to publish. Include platform-specific formatting if relevant.) Tj
+ET
+BT
+/F2 16 Tf
+36 246 Td
+0.176 0.176 0.176 rg
+(Example Input) Tj
+ET
+BT
+/F1 11 Tf
+36 222 Td
+0.200 0.200 0.200 rg
+(**Goal:** Get managers talking about whether open offices are overrated) Tj
+ET
+BT
+/F1 11 Tf
+36 209 Td
+0.200 0.200 0.200 rg
+(**Platform:** LinkedIn **Topic:** Office environments and team productivity) Tj
+ET
+BT
+/F1 11 Tf
+36 196 Td
+0.200 0.200 0.200 rg
+(**Target Audience:** Engineering managers and CTOs **Angle:** Contrarian) Tj
+ET
+BT
+/F1 11 Tf
+36 183 Td
+0.200 0.200 0.200 rg
+(hot take \(open offices don't actually boost collaboration\) **Length:**) Tj
+ET
+BT
+/F1 11 Tf
+36 170 Td
+0.200 0.200 0.200 rg
+(250-300 words) Tj
+ET
+BT
+/F2 16 Tf
+36 145 Td
+0.176 0.176 0.176 rg
+(Example Output) Tj
+ET
+BT
+/F1 9 Tf
+36 115 Td
+0.102 0.102 0.102 rg
+(Unpopular opinion: Open office layouts destroy deep work.) Tj
+ET
+BT
+/F1 9 Tf
+36 104 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 93 Td
+0.102 0.102 0.102 rg
+(I managed teams in open offices for 5 years. I watched talented engineers produce their *worst* code while getting interrupted every 20 minutes. And then I watched the same teams move to hybrid/remote, and their output nearly doubled.) Tj
+ET
+BT
+/F1 9 Tf
+36 82 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 71 Td
+0.102 0.102 0.102 rg
+(Open offices were supposed to improve collaboration. Instead, they just made everyone worse at focusing.) Tj
+ET
+BT
+/F1 9 Tf
+36 60 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792]
+   /Contents 6 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> >>
+endobj
+6 0 obj
+<< /Length 3801 >>
+stream
+BT
+/F1 9 Tf
+36 756 Td
+0.102 0.102 0.102 rg
+(Here's what actually happened in our open office:) Tj
+ET
+BT
+/F1 9 Tf
+36 745 Td
+0.102 0.102 0.102 rg
+(- Engineers with headphones \(6+ per day\) = "I'm busy, don't interrupt me") Tj
+ET
+BT
+/F1 9 Tf
+36 734 Td
+0.102 0.102 0.102 rg
+(- Constant context-switching = shallow work, more bugs) Tj
+ET
+BT
+/F1 9 Tf
+36 723 Td
+0.102 0.102 0.102 rg
+(- "Quick questions" that take 15 minutes = nobody's deep work happens) Tj
+ET
+BT
+/F1 9 Tf
+36 712 Td
+0.102 0.102 0.102 rg
+(- Extroverts thriving, introverts drowning = not everyone works this way) Tj
+ET
+BT
+/F1 9 Tf
+36 701 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 690 Td
+0.102 0.102 0.102 rg
+(The research is also pretty clear: Open offices increase stress and reduce productivity across the board. Studies from MIT, Stanford, and countless companies show it.) Tj
+ET
+BT
+/F1 9 Tf
+36 679 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 668 Td
+0.102 0.102 0.102 rg
+(Now, here's the thing—some collaboration is good. But you don't need an open office for that. Stand-ups, pair programming, and intentional collab sessions work way better than proximity.) Tj
+ET
+BT
+/F1 9 Tf
+36 657 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 646 Td
+0.102 0.102 0.102 rg
+(When I moved our team to: quiet focus time \(9-12am, no meetings\) + scheduled collab windows \(2-3pm\) + remote option... *that's* when the best work happened.) Tj
+ET
+BT
+/F1 9 Tf
+36 635 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 624 Td
+0.102 0.102 0.102 rg
+(I'm genuinely curious: What's your experience?) Tj
+ET
+BT
+/F1 9 Tf
+36 613 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 602 Td
+0.102 0.102 0.102 rg
+(Are you in an open office? Do you actually collaborate more, or are you just more stressed?) Tj
+ET
+BT
+/F1 9 Tf
+36 591 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 580 Td
+0.102 0.102 0.102 rg
+(Are you hybrid/remote? Has it changed how deep work happens on your team?) Tj
+ET
+BT
+/F1 9 Tf
+36 569 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 558 Td
+0.102 0.102 0.102 rg
+(I'm not trying to claim open offices are always bad for every team. But I think most companies defend them for the wrong reasons \(they're cheaper, they look good to leadership\) instead of asking: "What actually makes our team produce better work?") Tj
+ET
+BT
+/F1 9 Tf
+36 547 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 536 Td
+0.102 0.102 0.102 rg
+(Interested to hear what you've seen.) Tj
+ET
+BT
+/F2 16 Tf
+36 511 Td
+0.176 0.176 0.176 rg
+(Pro Tips) Tj
+ET
+BT
+/F1 11 Tf
+36 487 Td
+0.200 0.200 0.200 rg
+(**Tip 1: The "Genuine Curiosity" Close Works Better Than Debate Bait**) Tj
+ET
+BT
+/F1 11 Tf
+36 474 Td
+0.200 0.200 0.200 rg
+(Instead of "I'm right, convince me I'm wrong," try "I'm genuinely curious) Tj
+ET
+BT
+/F1 11 Tf
+36 461 Td
+0.200 0.200 0.200 rg
+(about your experience." This invites sharing instead of defending. People) Tj
+ET
+BT
+/F1 11 Tf
+36 448 Td
+0.200 0.200 0.200 rg
+(comment way more when they don't feel attacked. **Tip 2: Use Specificity to) Tj
+ET
+BT
+/F1 11 Tf
+36 435 Td
+0.200 0.200 0.200 rg
+(Spark Debate** Generic questions \("What's your opinion on X?"\) get generic) Tj
+ET
+BT
+/F1 11 Tf
+36 422 Td
+0.200 0.200 0.200 rg
+(answers. Specific scenarios \("Open offices destroy focus, but is it the) Tj
+ET
+BT
+/F1 11 Tf
+36 409 Td
+0.200 0.200 0.200 rg
+(office or the culture?"\) create nuance and debate. **Tip 3: Reveal) Tj
+ET
+BT
+/F1 11 Tf
+36 396 Td
+0.200 0.200 0.200 rg
+(Something True About Yourself** Posts that say "I used to think X, now I) Tj
+ET
+BT
+/F1 11 Tf
+36 383 Td
+0.200 0.200 0.200 rg
+(think Y" or "I failed at this for years" create psychological permission) Tj
+ET
+BT
+/F1 11 Tf
+36 370 Td
+0.200 0.200 0.200 rg
+(for others to be vulnerable. Vulnerability sparks real comments, not just) Tj
+ET
+BT
+/F1 11 Tf
+36 357 Td
+0.200 0.200 0.200 rg
+(emoji reactions.) Tj
+ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000130 00000 n 
+0000005776 00000 n 
+0000000372 00000 n 
+0000006018 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+9865
+%%EOF

@@ -1,0 +1,902 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 4 0 R 5 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792]
+   /Contents 6 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> >>
+endobj
+6 0 obj
+<< /Length 4691 >>
+stream
+BT
+/F1 11 Tf
+36 756 Td
+0.200 0.200 0.200 rg
+([TIER: STANDARD] [PRICE: $9]) Tj
+ET
+BT
+/F2 24 Tf
+36 739 Td
+0.102 0.102 0.102 rg
+(Twitter/X Thread Builder) Tj
+ET
+BT
+/F2 16 Tf
+36 695 Td
+0.176 0.176 0.176 rg
+(Description) Tj
+ET
+BT
+/F1 11 Tf
+36 671 Td
+0.200 0.200 0.200 rg
+(Structure and write viral Twitter threads that teach something valuable in) Tj
+ET
+BT
+/F1 11 Tf
+36 658 Td
+0.200 0.200 0.200 rg
+(8-12 tweets. Includes hook formulas and pacing strategies to keep people) Tj
+ET
+BT
+/F1 11 Tf
+36 645 Td
+0.200 0.200 0.200 rg
+(reading until the last tweet.) Tj
+ET
+BT
+/F2 16 Tf
+36 620 Td
+0.176 0.176 0.176 rg
+(Prompt Text) Tj
+ET
+BT
+/F1 9 Tf
+36 590 Td
+0.102 0.102 0.102 rg
+(You are a Twitter thread expert who writes threads that get thousands of likes and boost follower growth.) Tj
+ET
+BT
+/F1 9 Tf
+36 579 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 568 Td
+0.102 0.102 0.102 rg
+(I want to share: [TOPIC/LESSON - e.g., "how to write better cold emails"]) Tj
+ET
+BT
+/F1 9 Tf
+36 557 Td
+0.102 0.102 0.102 rg
+(Main concept/insight: [CORE IDEA - e.g., "most cold emails fail because they lead with a product pitch, not empathy"]) Tj
+ET
+BT
+/F1 9 Tf
+36 546 Td
+0.102 0.102 0.102 rg
+(Thread length: [NUMBER OF TWEETS - e.g., 10 tweets]) Tj
+ET
+BT
+/F1 9 Tf
+36 535 Td
+0.102 0.102 0.102 rg
+(Audience: [WHO YOU'RE TALKING TO - e.g., "early-stage founders and sales people"]) Tj
+ET
+BT
+/F1 9 Tf
+36 524 Td
+0.102 0.102 0.102 rg
+(Tone: [TONE - e.g., "practical and a bit sarcastic"]) Tj
+ET
+BT
+/F1 9 Tf
+36 513 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 502 Td
+0.102 0.102 0.102 rg
+(Write a Twitter thread that:) Tj
+ET
+BT
+/F1 9 Tf
+36 491 Td
+0.102 0.102 0.102 rg
+(1. Opens with a hook \(question, surprising stat, or bold claim\) in Tweet 1) Tj
+ET
+BT
+/F1 9 Tf
+36 480 Td
+0.102 0.102 0.102 rg
+(2. Acknowledges why people *currently* get it wrong \(tweets 2-3\)) Tj
+ET
+BT
+/F1 9 Tf
+36 469 Td
+0.102 0.102 0.102 rg
+(3. Introduces your framework or insight \(tweet 4\)) Tj
+ET
+BT
+/F1 9 Tf
+36 458 Td
+0.102 0.102 0.102 rg
+(4. Walks through 3-5 steps/ideas, one per tweet \(tweets 5-8\)) Tj
+ET
+BT
+/F1 9 Tf
+36 447 Td
+0.102 0.102 0.102 rg
+(5. Wraps with a summary and call-to-action \(last tweet\)) Tj
+ET
+BT
+/F1 9 Tf
+36 436 Td
+0.102 0.102 0.102 rg
+(6. Uses white space strategically \(short sentences, line breaks\)) Tj
+ET
+BT
+/F1 9 Tf
+36 425 Td
+0.102 0.102 0.102 rg
+(7. Each tweet stands alone but connects to the larger story) Tj
+ET
+BT
+/F1 9 Tf
+36 414 Td
+0.102 0.102 0.102 rg
+(8. Avoids jargon; explains like you're talking to a smart friend) Tj
+ET
+BT
+/F1 9 Tf
+36 403 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 392 Td
+0.102 0.102 0.102 rg
+(Avoid:) Tj
+ET
+BT
+/F1 9 Tf
+36 381 Td
+0.102 0.102 0.102 rg
+(- "Thread:" at the start \(unnecessary\)) Tj
+ET
+BT
+/F1 9 Tf
+36 370 Td
+0.102 0.102 0.102 rg
+(- Emojis every tweet \(looks desperate\)) Tj
+ET
+BT
+/F1 9 Tf
+36 359 Td
+0.102 0.102 0.102 rg
+(- Cliff-hangers that feel artificial) Tj
+ET
+BT
+/F1 9 Tf
+36 348 Td
+0.102 0.102 0.102 rg
+(- "RT if you agree" or engagement bait) Tj
+ET
+BT
+/F1 9 Tf
+36 337 Td
+0.102 0.102 0.102 rg
+(- Multiple threads in one \(confusing\)) Tj
+ET
+BT
+/F1 9 Tf
+36 326 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 315 Td
+0.102 0.102 0.102 rg
+(Format as numbered tweets ready to copy/paste. Each tweet separated by [---].) Tj
+ET
+BT
+/F2 16 Tf
+36 290 Td
+0.176 0.176 0.176 rg
+(Example Input) Tj
+ET
+BT
+/F1 11 Tf
+36 266 Td
+0.200 0.200 0.200 rg
+(**Topic:** How to find business ideas that actually have a market **Core) Tj
+ET
+BT
+/F1 11 Tf
+36 253 Td
+0.200 0.200 0.200 rg
+(Idea:** Most people start with an idea they love, then search for) Tj
+ET
+BT
+/F1 11 Tf
+36 240 Td
+0.200 0.200 0.200 rg
+(customers. Backwards. **Thread Length:** 10 tweets **Audience:** Aspiring) Tj
+ET
+BT
+/F1 11 Tf
+36 227 Td
+0.200 0.200 0.200 rg
+(entrepreneurs and indie hackers **Tone:** Direct, practical, slightly) Tj
+ET
+BT
+/F1 11 Tf
+36 214 Td
+0.200 0.200 0.200 rg
+(skeptical) Tj
+ET
+BT
+/F2 16 Tf
+36 189 Td
+0.176 0.176 0.176 rg
+(Example Output) Tj
+ET
+BT
+/F1 9 Tf
+36 159 Td
+0.102 0.102 0.102 rg
+(1/10) Tj
+ET
+BT
+/F1 9 Tf
+36 148 Td
+0.102 0.102 0.102 rg
+(Most startup ideas fail because founders build first, ask later.) Tj
+ET
+BT
+/F1 9 Tf
+36 137 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 126 Td
+0.102 0.102 0.102 rg
+(They fall in love with an idea, build it alone for 6 months, then realize nobody wants it.) Tj
+ET
+BT
+/F1 9 Tf
+36 115 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 104 Td
+0.102 0.102 0.102 rg
+(Here's how to flip that: Find a market first. *Then* pick an idea.) Tj
+ET
+BT
+/F1 9 Tf
+36 93 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 82 Td
+0.102 0.102 0.102 rg
+([---]) Tj
+ET
+BT
+/F1 9 Tf
+36 71 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 60 Td
+0.102 0.102 0.102 rg
+(2/10) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792]
+   /Contents 7 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> >>
+endobj
+7 0 obj
+<< /Length 4864 >>
+stream
+BT
+/F1 9 Tf
+36 756 Td
+0.102 0.102 0.102 rg
+(The biggest mistake?) Tj
+ET
+BT
+/F1 9 Tf
+36 745 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 734 Td
+0.102 0.102 0.102 rg
+(Starting with "What's a cool idea?" instead of "What's a problem people are paying to solve?") Tj
+ET
+BT
+/F1 9 Tf
+36 723 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 712 Td
+0.102 0.102 0.102 rg
+(Cool ideas without markets are expensive hobbies.) Tj
+ET
+BT
+/F1 9 Tf
+36 701 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 690 Td
+0.102 0.102 0.102 rg
+([---]) Tj
+ET
+BT
+/F1 9 Tf
+36 679 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 668 Td
+0.102 0.102 0.102 rg
+(3/10) Tj
+ET
+BT
+/F1 9 Tf
+36 657 Td
+0.102 0.102 0.102 rg
+(Most people know this intellectually. But they ignore it anyway because falling in love with your own idea *feels* better than the grind of customer research.) Tj
+ET
+BT
+/F1 9 Tf
+36 646 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 635 Td
+0.102 0.102 0.102 rg
+(So how do you actually find profitable ideas?) Tj
+ET
+BT
+/F1 9 Tf
+36 624 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 613 Td
+0.102 0.102 0.102 rg
+([---]) Tj
+ET
+BT
+/F1 9 Tf
+36 602 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 591 Td
+0.102 0.102 0.102 rg
+(4/10) Tj
+ET
+BT
+/F1 9 Tf
+36 580 Td
+0.102 0.102 0.102 rg
+(The framework I use: Look for problems in places where:) Tj
+ET
+BT
+/F1 9 Tf
+36 569 Td
+0.102 0.102 0.102 rg
+(- People are already spending money \(proven demand\)) Tj
+ET
+BT
+/F1 9 Tf
+36 558 Td
+0.102 0.102 0.102 rg
+(- The current solution sucks \(opportunity to improve\)) Tj
+ET
+BT
+/F1 9 Tf
+36 547 Td
+0.102 0.102 0.102 rg
+(- You have some unfair advantage \(network, skills, experience\)) Tj
+ET
+BT
+/F1 9 Tf
+36 536 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 525 Td
+0.102 0.102 0.102 rg
+([---]) Tj
+ET
+BT
+/F1 9 Tf
+36 514 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 503 Td
+0.102 0.102 0.102 rg
+(5/10) Tj
+ET
+BT
+/F1 9 Tf
+36 492 Td
+0.102 0.102 0.102 rg
+(Step 1: Pick an industry or audience you know well.) Tj
+ET
+BT
+/F1 9 Tf
+36 481 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 470 Td
+0.102 0.102 0.102 rg
+(Founder + ex-marketer? Look at marketing problems.) Tj
+ET
+BT
+/F1 9 Tf
+36 459 Td
+0.102 0.102 0.102 rg
+(Ex-therapist? Look at mental health software.) Tj
+ET
+BT
+/F1 9 Tf
+36 448 Td
+0.102 0.102 0.102 rg
+(Previously sold enterprise software? Look for B2B inefficiencies.) Tj
+ET
+BT
+/F1 9 Tf
+36 437 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 426 Td
+0.102 0.102 0.102 rg
+(Your past is your competitive edge.) Tj
+ET
+BT
+/F1 9 Tf
+36 415 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 404 Td
+0.102 0.102 0.102 rg
+([---]) Tj
+ET
+BT
+/F1 9 Tf
+36 393 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 382 Td
+0.102 0.102 0.102 rg
+(6/10) Tj
+ET
+BT
+/F1 9 Tf
+36 371 Td
+0.102 0.102 0.102 rg
+(Step 2: Talk to 10-15 people in that world.) Tj
+ET
+BT
+/F1 9 Tf
+36 360 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 349 Td
+0.102 0.102 0.102 rg
+(Not to sell them. Just to understand their current problems and what they're currently paying for solutions.) Tj
+ET
+BT
+/F1 9 Tf
+36 338 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 327 Td
+0.102 0.102 0.102 rg
+(Ask: "What's the biggest pain in [your domain]?") Tj
+ET
+BT
+/F1 9 Tf
+36 316 Td
+0.102 0.102 0.102 rg
+(Then shut up and listen.) Tj
+ET
+BT
+/F1 9 Tf
+36 305 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 294 Td
+0.102 0.102 0.102 rg
+([---]) Tj
+ET
+BT
+/F1 9 Tf
+36 283 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 272 Td
+0.102 0.102 0.102 rg
+(7/10) Tj
+ET
+BT
+/F1 9 Tf
+36 261 Td
+0.102 0.102 0.102 rg
+(Step 3: Look for patterns in complaints.) Tj
+ET
+BT
+/F1 9 Tf
+36 250 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 239 Td
+0.102 0.102 0.102 rg
+(If 3+ people mention the same problem, that's not a coincidence. That's a market.) Tj
+ET
+BT
+/F1 9 Tf
+36 228 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 217 Td
+0.102 0.102 0.102 rg
+(Write down:) Tj
+ET
+BT
+/F1 9 Tf
+36 206 Td
+0.102 0.102 0.102 rg
+(- What's the problem?) Tj
+ET
+BT
+/F1 9 Tf
+36 195 Td
+0.102 0.102 0.102 rg
+(- Who has it?) Tj
+ET
+BT
+/F1 9 Tf
+36 184 Td
+0.102 0.102 0.102 rg
+(- What are they currently using?) Tj
+ET
+BT
+/F1 9 Tf
+36 173 Td
+0.102 0.102 0.102 rg
+(- Why doesn't it work?) Tj
+ET
+BT
+/F1 9 Tf
+36 162 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 151 Td
+0.102 0.102 0.102 rg
+([---]) Tj
+ET
+BT
+/F1 9 Tf
+36 140 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 129 Td
+0.102 0.102 0.102 rg
+(8/10) Tj
+ET
+BT
+/F1 9 Tf
+36 118 Td
+0.102 0.102 0.102 rg
+(Step 4: Validate before building.) Tj
+ET
+BT
+/F1 9 Tf
+36 107 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 96 Td
+0.102 0.102 0.102 rg
+(Can you sell this problem as a solution? Presell to 3 customers before writing a line of code.) Tj
+ET
+BT
+/F1 9 Tf
+36 85 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 74 Td
+0.102 0.102 0.102 rg
+(If people won't commit even when it's discounted, you don't have a market yet.) Tj
+ET
+BT
+/F1 9 Tf
+36 63 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792]
+   /Contents 8 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> >>
+endobj
+8 0 obj
+<< /Length 2418 >>
+stream
+BT
+/F1 9 Tf
+36 756 Td
+0.102 0.102 0.102 rg
+([---]) Tj
+ET
+BT
+/F1 9 Tf
+36 745 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 734 Td
+0.102 0.102 0.102 rg
+(9/10) Tj
+ET
+BT
+/F1 9 Tf
+36 723 Td
+0.102 0.102 0.102 rg
+(This whole process takes 2-3 weeks of part-time work.) Tj
+ET
+BT
+/F1 9 Tf
+36 712 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 701 Td
+0.102 0.102 0.102 rg
+(Most people skip it. They'd rather spend 6 months building. But 2 weeks of research beats 6 months on the wrong idea.) Tj
+ET
+BT
+/F1 9 Tf
+36 690 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 679 Td
+0.102 0.102 0.102 rg
+([---]) Tj
+ET
+BT
+/F1 9 Tf
+36 668 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 657 Td
+0.102 0.102 0.102 rg
+(10/10) Tj
+ET
+BT
+/F1 9 Tf
+36 646 Td
+0.102 0.102 0.102 rg
+(TL;DR: Find a market before you fall in love with a solution.) Tj
+ET
+BT
+/F1 9 Tf
+36 635 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 624 Td
+0.102 0.102 0.102 rg
+(Pick an audience you know.) Tj
+ET
+BT
+/F1 9 Tf
+36 613 Td
+0.102 0.102 0.102 rg
+(Talk to them.) Tj
+ET
+BT
+/F1 9 Tf
+36 602 Td
+0.102 0.102 0.102 rg
+(Look for patterns.) Tj
+ET
+BT
+/F1 9 Tf
+36 591 Td
+0.102 0.102 0.102 rg
+(Pre-sell.) Tj
+ET
+BT
+/F1 9 Tf
+36 580 Td
+0.102 0.102 0.102 rg
+(Then build.) Tj
+ET
+BT
+/F1 9 Tf
+36 569 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 558 Td
+0.102 0.102 0.102 rg
+(This order matters way more than having a "unique" idea.) Tj
+ET
+BT
+/F2 16 Tf
+36 533 Td
+0.176 0.176 0.176 rg
+(Pro Tips) Tj
+ET
+BT
+/F1 11 Tf
+36 509 Td
+0.200 0.200 0.200 rg
+(**Tip 1: Make Each Tweet Valuable Standalone** Someone should be able to) Tj
+ET
+BT
+/F1 11 Tf
+36 496 Td
+0.200 0.200 0.200 rg
+(read just tweet 5 without following tweets 1-4 and still think "that's) Tj
+ET
+BT
+/F1 11 Tf
+36 483 Td
+0.200 0.200 0.200 rg
+(useful." This improves retweets and reach. **Tip 2: Use Line Breaks Inside) Tj
+ET
+BT
+/F1 11 Tf
+36 470 Td
+0.200 0.200 0.200 rg
+(Tweets** Instead of one long paragraph, break tweets into 2-3 ideas with) Tj
+ET
+BT
+/F1 11 Tf
+36 457 Td
+0.200 0.200 0.200 rg
+(white space. It looks less dense and reads faster on mobile. **Tip 3: Save) Tj
+ET
+BT
+/F1 11 Tf
+36 444 Td
+0.200 0.200 0.200 rg
+(the Best Insight for Tweet 8-9** Don't front-load all value in tweets 1-3.) Tj
+ET
+BT
+/F1 11 Tf
+36 431 Td
+0.200 0.200 0.200 rg
+(People stop scrolling if they feel they've gotten the main point. Bury one) Tj
+ET
+BT
+/F1 11 Tf
+36 418 Td
+0.200 0.200 0.200 rg
+(gold nugget in the latter half to keep them reading.) Tj
+ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000136 00000 n 
+0000005120 00000 n 
+0000010277 00000 n 
+0000000378 00000 n 
+0000005362 00000 n 
+0000010519 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+12979
+%%EOF

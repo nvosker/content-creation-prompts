@@ -1,0 +1,3350 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R] /Count 9 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792]
+   /Contents 12 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> >>
+endobj
+12 0 obj
+<< /Length 4664 >>
+stream
+BT
+/F1 11 Tf
+36 756 Td
+0.200 0.200 0.200 rg
+([TIER: STANDARD] [PRICE: $9]) Tj
+ET
+BT
+/F2 24 Tf
+36 739 Td
+0.102 0.102 0.102 rg
+(Video-to-Content Multiplier) Tj
+ET
+BT
+/F2 16 Tf
+36 695 Td
+0.176 0.176 0.176 rg
+(Description) Tj
+ET
+BT
+/F1 11 Tf
+36 671 Td
+0.200 0.200 0.200 rg
+(Turn one video \(YouTube, webinar, podcast, etc.\) into 10+ pieces of written) Tj
+ET
+BT
+/F1 11 Tf
+36 658 Td
+0.200 0.200 0.200 rg
+(and social content. Extract key insights, create transcripts, clips, and) Tj
+ET
+BT
+/F1 11 Tf
+36 645 Td
+0.200 0.200 0.200 rg
+(quotable moments.) Tj
+ET
+BT
+/F2 16 Tf
+36 620 Td
+0.176 0.176 0.176 rg
+(Prompt Text) Tj
+ET
+BT
+/F1 9 Tf
+36 590 Td
+0.102 0.102 0.102 rg
+(You are a content repurposing expert who turns one video into endless content.) Tj
+ET
+BT
+/F1 9 Tf
+36 579 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 568 Td
+0.102 0.102 0.102 rg
+(I have a video about: [TOPIC]) Tj
+ET
+BT
+/F1 9 Tf
+36 557 Td
+0.102 0.102 0.102 rg
+(Video type: [YOUTUBE / WEBINAR / PODCAST / INTERVIEW / LIVE STREAM]) Tj
+ET
+BT
+/F1 9 Tf
+36 546 Td
+0.102 0.102 0.102 rg
+(Video length: [LENGTH - e.g., "45 minutes", "15 minutes"]) Tj
+ET
+BT
+/F1 9 Tf
+36 535 Td
+0.102 0.102 0.102 rg
+(Key topics covered: [OUTLINE - e.g., "1. Why most people fail, 2. The framework, 3. Real example"]) Tj
+ET
+BT
+/F1 9 Tf
+36 524 Td
+0.102 0.102 0.102 rg
+(Main insight: [PRIMARY TAKEAWAY]) Tj
+ET
+BT
+/F1 9 Tf
+36 513 Td
+0.102 0.102 0.102 rg
+(Target audience: [WHO THIS HELPS - e.g., "early-stage founders", "marketing managers"]) Tj
+ET
+BT
+/F1 9 Tf
+36 502 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 491 Td
+0.102 0.102 0.102 rg
+(Generate content from the video by:) Tj
+ET
+BT
+/F1 9 Tf
+36 480 Td
+0.102 0.102 0.102 rg
+(1. Extracting the transcript \(summarized if long\)) Tj
+ET
+BT
+/F1 9 Tf
+36 469 Td
+0.102 0.102 0.102 rg
+(2. Identifying 3-5 core ideas/frameworks) Tj
+ET
+BT
+/F1 9 Tf
+36 458 Td
+0.102 0.102 0.102 rg
+(3. Creating quotable moments) Tj
+ET
+BT
+/F1 9 Tf
+36 447 Td
+0.102 0.102 0.102 rg
+(4. Generating clips/excerpts perfect for social) Tj
+ET
+BT
+/F1 9 Tf
+36 436 Td
+0.102 0.102 0.102 rg
+(5. Writing blog post from video) Tj
+ET
+BT
+/F1 9 Tf
+36 425 Td
+0.102 0.102 0.102 rg
+(6. Creating email digest) Tj
+ET
+BT
+/F1 9 Tf
+36 414 Td
+0.102 0.102 0.102 rg
+(7. Generating social posts with video clips) Tj
+ET
+BT
+/F1 9 Tf
+36 403 Td
+0.102 0.102 0.102 rg
+(8. Creating podcast show notes if applicable) Tj
+ET
+BT
+/F1 9 Tf
+36 392 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 381 Td
+0.102 0.102 0.102 rg
+(Output format:) Tj
+ET
+BT
+/F1 9 Tf
+36 370 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 359 Td
+0.102 0.102 0.102 rg
+(**Video Overview:**) Tj
+ET
+BT
+/F1 9 Tf
+36 348 Td
+0.102 0.102 0.102 rg
+(- Topic, length, main takeaway) Tj
+ET
+BT
+/F1 9 Tf
+36 337 Td
+0.102 0.102 0.102 rg
+(- Key timestamps for important sections) Tj
+ET
+BT
+/F1 9 Tf
+36 326 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 315 Td
+0.102 0.102 0.102 rg
+(**Transcript Summary:**) Tj
+ET
+BT
+/F1 9 Tf
+36 304 Td
+0.102 0.102 0.102 rg
+(- 500-word summary of main ideas) Tj
+ET
+BT
+/F1 9 Tf
+36 293 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 282 Td
+0.102 0.102 0.102 rg
+(**Quotable Moments \(5-7\):**) Tj
+ET
+BT
+/F1 9 Tf
+36 271 Td
+0.102 0.102 0.102 rg
+(- Direct quotes perfect for graphics or posts) Tj
+ET
+BT
+/F1 9 Tf
+36 260 Td
+0.102 0.102 0.102 rg
+(- Context for each quote) Tj
+ET
+BT
+/F1 9 Tf
+36 249 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 238 Td
+0.102 0.102 0.102 rg
+(**Blog Post Idea:**) Tj
+ET
+BT
+/F1 9 Tf
+36 227 Td
+0.102 0.102 0.102 rg
+(- Title, structure, key sections \(ready to expand\)) Tj
+ET
+BT
+/F1 9 Tf
+36 216 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 205 Td
+0.102 0.102 0.102 rg
+(**Social Clips to Extract:**) Tj
+ET
+BT
+/F1 9 Tf
+36 194 Td
+0.102 0.102 0.102 rg
+(- Timings for 3-4 key moments to turn into short videos/clips) Tj
+ET
+BT
+/F1 9 Tf
+36 183 Td
+0.102 0.102 0.102 rg
+(- Why each is shareworthy) Tj
+ET
+BT
+/F1 9 Tf
+36 172 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 161 Td
+0.102 0.102 0.102 rg
+(**Social Posts:**) Tj
+ET
+BT
+/F1 9 Tf
+36 150 Td
+0.102 0.102 0.102 rg
+(- 4-5 posts across platforms \(LinkedIn, Twitter, Instagram\)) Tj
+ET
+BT
+/F1 9 Tf
+36 139 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 128 Td
+0.102 0.102 0.102 rg
+(**Email Summary:**) Tj
+ET
+BT
+/F1 9 Tf
+36 117 Td
+0.102 0.102 0.102 rg
+(- 2-3 email variations highlighting key insights) Tj
+ET
+BT
+/F1 9 Tf
+36 106 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 95 Td
+0.102 0.102 0.102 rg
+(Avoid:) Tj
+ET
+BT
+/F1 9 Tf
+36 84 Td
+0.102 0.102 0.102 rg
+(- Transcribing the entire video word-for-word) Tj
+ET
+BT
+/F1 9 Tf
+36 73 Td
+0.102 0.102 0.102 rg
+(- Over-extracting \(pick the most valuable moments\)) Tj
+ET
+BT
+/F1 9 Tf
+36 62 Td
+0.102 0.102 0.102 rg
+(- Using quotes out of context) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792]
+   /Contents 13 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> >>
+endobj
+13 0 obj
+<< /Length 5185 >>
+stream
+BT
+/F1 9 Tf
+36 756 Td
+0.102 0.102 0.102 rg
+(- Making clips without clear hooks) Tj
+ET
+BT
+/F1 9 Tf
+36 745 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 734 Td
+0.102 0.102 0.102 rg
+(Format as a complete repurposing kit.) Tj
+ET
+BT
+/F2 16 Tf
+36 709 Td
+0.176 0.176 0.176 rg
+(Example Input) Tj
+ET
+BT
+/F1 11 Tf
+36 685 Td
+0.200 0.200 0.200 rg
+(**Video:** "How to Validate Product Ideas Before Building" \(LinkedIn Live,) Tj
+ET
+BT
+/F1 11 Tf
+36 672 Td
+0.200 0.200 0.200 rg
+(45 minutes\) **Key Topics:** Why validation matters, 3-step validation) Tj
+ET
+BT
+/F1 11 Tf
+36 659 Td
+0.200 0.200 0.200 rg
+(framework, real founder stories, common mistakes **Main Insight:** Most) Tj
+ET
+BT
+/F1 11 Tf
+36 646 Td
+0.200 0.200 0.200 rg
+(founders build first, ask later—backwards **Target Audience:** Indie) Tj
+ET
+BT
+/F1 11 Tf
+36 633 Td
+0.200 0.200 0.200 rg
+(hackers and early-stage founders) Tj
+ET
+BT
+/F2 16 Tf
+36 608 Td
+0.176 0.176 0.176 rg
+(Example Output) Tj
+ET
+BT
+/F1 9 Tf
+36 578 Td
+0.102 0.102 0.102 rg
+(---) Tj
+ET
+BT
+/F1 9 Tf
+36 567 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 556 Td
+0.102 0.102 0.102 rg
+(## VIDEO REPURPOSING KIT: "How to Validate Product Ideas Before Building") Tj
+ET
+BT
+/F1 9 Tf
+36 545 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 534 Td
+0.102 0.102 0.102 rg
+(### VIDEO OVERVIEW) Tj
+ET
+BT
+/F1 9 Tf
+36 523 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 512 Td
+0.102 0.102 0.102 rg
+(**Topic:** Product validation for indie hackers and early-stage founders) Tj
+ET
+BT
+/F1 9 Tf
+36 501 Td
+0.102 0.102 0.102 rg
+(**Type:** LinkedIn Live \(45 minutes\)) Tj
+ET
+BT
+/F1 9 Tf
+36 490 Td
+0.102 0.102 0.102 rg
+(**Main Takeaway:** Spend 2 weeks validating before 6 months building) Tj
+ET
+BT
+/F1 9 Tf
+36 479 Td
+0.102 0.102 0.102 rg
+(**Best Moments:** 7:30 \(framework intro\), 15:45 \(first founder story\), 32:10 \(biggest mistake\)) Tj
+ET
+BT
+/F1 9 Tf
+36 468 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 457 Td
+0.102 0.102 0.102 rg
+(---) Tj
+ET
+BT
+/F1 9 Tf
+36 446 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 435 Td
+0.102 0.102 0.102 rg
+(### TRANSCRIPT SUMMARY \(500 words\)) Tj
+ET
+BT
+/F1 9 Tf
+36 424 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 413 Td
+0.102 0.102 0.102 rg
+(Most founders build first, ask customers later.) Tj
+ET
+BT
+/F1 9 Tf
+36 402 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 391 Td
+0.102 0.102 0.102 rg
+(That's why 90% of startups fail.) Tj
+ET
+BT
+/F1 9 Tf
+36 380 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 369 Td
+0.102 0.102 0.102 rg
+(Here's what works instead: Validate your idea in 2 weeks before writing a line of code.) Tj
+ET
+BT
+/F1 9 Tf
+36 358 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 347 Td
+0.102 0.102 0.102 rg
+(**The Problem with Building First**) Tj
+ET
+BT
+/F1 9 Tf
+36 336 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 325 Td
+0.102 0.102 0.102 rg
+(When you fall in love with an idea, you want to build immediately. It feels like progress. But progress toward *what*?) Tj
+ET
+BT
+/F1 9 Tf
+36 314 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 303 Td
+0.102 0.102 0.102 rg
+(Most founders spend 6 months building a product nobody wants. Then they spend another 3 months trying to sell it. When the sales don't come, they blame marketing or the market.) Tj
+ET
+BT
+/F1 9 Tf
+36 292 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 281 Td
+0.102 0.102 0.102 rg
+(Actually? They built the wrong thing.) Tj
+ET
+BT
+/F1 9 Tf
+36 270 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 259 Td
+0.102 0.102 0.102 rg
+(**The 3-Step Validation Framework**) Tj
+ET
+BT
+/F1 9 Tf
+36 248 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 237 Td
+0.102 0.102 0.102 rg
+(I've helped 20+ founders validate ideas. The ones who succeed follow a simple pattern:) Tj
+ET
+BT
+/F1 9 Tf
+36 226 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 215 Td
+0.102 0.102 0.102 rg
+(**Step 1: Talk to 10 people \(week 1\)**) Tj
+ET
+BT
+/F1 9 Tf
+36 204 Td
+0.102 0.102 0.102 rg
+(Don't ask "Would you use this?" People say yes to everything.) Tj
+ET
+BT
+/F1 9 Tf
+36 193 Td
+0.102 0.102 0.102 rg
+(Instead, ask: "What's the biggest pain you have in [domain]?") Tj
+ET
+BT
+/F1 9 Tf
+36 182 Td
+0.102 0.102 0.102 rg
+(Listen for patterns. If 5+ people mention the same problem, you've found market need.) Tj
+ET
+BT
+/F1 9 Tf
+36 171 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 160 Td
+0.102 0.102 0.102 rg
+(**Step 2: Pre-sell \(week 2\)**) Tj
+ET
+BT
+/F1 9 Tf
+36 149 Td
+0.102 0.102 0.102 rg
+(Can you actually sell this idea before it exists?) Tj
+ET
+BT
+/F1 9 Tf
+36 138 Td
+0.102 0.102 0.102 rg
+(Offer a discount for early access. "I'm building X. Would you pay $50/month for it?") Tj
+ET
+BT
+/F1 9 Tf
+36 127 Td
+0.102 0.102 0.102 rg
+(If people won't commit even with a 50% discount, you don't have a market.) Tj
+ET
+BT
+/F1 9 Tf
+36 116 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 105 Td
+0.102 0.102 0.102 rg
+(**Step 3: Interview the "yes" people \(week 2\)**) Tj
+ET
+BT
+/F1 9 Tf
+36 94 Td
+0.102 0.102 0.102 rg
+(Talk to the 2-3 people who said yes.) Tj
+ET
+BT
+/F1 9 Tf
+36 83 Td
+0.102 0.102 0.102 rg
+(Ask what they'd want, what they'd pay, what problems they'd want solved first.) Tj
+ET
+BT
+/F1 9 Tf
+36 72 Td
+0.102 0.102 0.102 rg
+(These conversations give you the roadmap.) Tj
+ET
+BT
+/F1 9 Tf
+36 61 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792]
+   /Contents 14 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> >>
+endobj
+14 0 obj
+<< /Length 5538 >>
+stream
+BT
+/F1 9 Tf
+36 756 Td
+0.102 0.102 0.102 rg
+(**Real Founder Stories**) Tj
+ET
+BT
+/F1 9 Tf
+36 745 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 734 Td
+0.102 0.102 0.102 rg
+(Founder A spent 4 months building a project management tool. Launched to silence. Validated *after* building.) Tj
+ET
+BT
+/F1 9 Tf
+36 723 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 712 Td
+0.102 0.102 0.102 rg
+(Founder B spent 2 weeks talking to 15 product managers. Found 3 would pay $500/month for a specific feature. Validated *before* building. Now doing $50K/month.) Tj
+ET
+BT
+/F1 9 Tf
+36 701 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 690 Td
+0.102 0.102 0.102 rg
+(Same market. Different approaches.) Tj
+ET
+BT
+/F1 9 Tf
+36 679 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 668 Td
+0.102 0.102 0.102 rg
+(**The Biggest Mistakes**) Tj
+ET
+BT
+/F1 9 Tf
+36 657 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 646 Td
+0.102 0.102 0.102 rg
+(Mistake 1: Asking friends if they'd use it \(they'll say yes to be nice\)) Tj
+ET
+BT
+/F1 9 Tf
+36 635 Td
+0.102 0.102 0.102 rg
+(Mistake 2: Building multiple features \(start with one\)) Tj
+ET
+BT
+/F1 9 Tf
+36 624 Td
+0.102 0.102 0.102 rg
+(Mistake 3: Overthinking the validation \(2 weeks is enough\)) Tj
+ET
+BT
+/F1 9 Tf
+36 613 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 602 Td
+0.102 0.102 0.102 rg
+(**What Most Founders Miss**) Tj
+ET
+BT
+/F1 9 Tf
+36 591 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 580 Td
+0.102 0.102 0.102 rg
+(The best part of validation? It's not saying "yes" or "no" to an idea.) Tj
+ET
+BT
+/F1 9 Tf
+36 569 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 558 Td
+0.102 0.102 0.102 rg
+(It's understanding *why* people do or don't want it.) Tj
+ET
+BT
+/F1 9 Tf
+36 547 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 536 Td
+0.102 0.102 0.102 rg
+(You'll learn more in 2 weeks of customer conversations than in 6 months of solo development.) Tj
+ET
+BT
+/F1 9 Tf
+36 525 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 514 Td
+0.102 0.102 0.102 rg
+(**How to Start Monday**) Tj
+ET
+BT
+/F1 9 Tf
+36 503 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 492 Td
+0.102 0.102 0.102 rg
+(1. Pick one problem you want to solve) Tj
+ET
+BT
+/F1 9 Tf
+36 481 Td
+0.102 0.102 0.102 rg
+(2. Find 10 people who have that problem) Tj
+ET
+BT
+/F1 9 Tf
+36 470 Td
+0.102 0.102 0.102 rg
+(3. Ask what their current solution is) Tj
+ET
+BT
+/F1 9 Tf
+36 459 Td
+0.102 0.102 0.102 rg
+(4. Ask what doesn't work about it) Tj
+ET
+BT
+/F1 9 Tf
+36 448 Td
+0.102 0.102 0.102 rg
+(5. Notice patterns) Tj
+ET
+BT
+/F1 9 Tf
+36 437 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 426 Td
+0.102 0.102 0.102 rg
+(That's it. One week. Zero code. Clear direction.) Tj
+ET
+BT
+/F1 9 Tf
+36 415 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 404 Td
+0.102 0.102 0.102 rg
+(---) Tj
+ET
+BT
+/F1 9 Tf
+36 393 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 382 Td
+0.102 0.102 0.102 rg
+(### QUOTABLE MOMENTS \(7 quotes for graphics/posts\)) Tj
+ET
+BT
+/F1 9 Tf
+36 371 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 360 Td
+0.102 0.102 0.102 rg
+(1. **"Most founders build first, ask later. That's why 90% of startups fail."**) Tj
+ET
+BT
+/F1 9 Tf
+36 349 Td
+0.102 0.102 0.102 rg
+(   - Use for: LinkedIn/Twitter/Instagram graphics) Tj
+ET
+BT
+/F1 9 Tf
+36 338 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 327 Td
+0.102 0.102 0.102 rg
+(2. **"Spend 2 weeks validating before 6 months building."**) Tj
+ET
+BT
+/F1 9 Tf
+36 316 Td
+0.102 0.102 0.102 rg
+(   - Use for: Email subject line alternative versions) Tj
+ET
+BT
+/F1 9 Tf
+36 305 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 294 Td
+0.102 0.102 0.102 rg
+(3. **"Don't ask 'Would you use this?' People say yes to everything. Instead ask: 'What's the biggest pain you have?'"**) Tj
+ET
+BT
+/F1 9 Tf
+36 283 Td
+0.102 0.102 0.102 rg
+(   - Use for: Educational post on customer discovery) Tj
+ET
+BT
+/F1 9 Tf
+36 272 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 261 Td
+0.102 0.102 0.102 rg
+(4. **"If people won't commit even with a 50% discount, you don't have a market."**) Tj
+ET
+BT
+/F1 9 Tf
+36 250 Td
+0.102 0.102 0.102 rg
+(   - Use for: Reality-check LinkedIn post) Tj
+ET
+BT
+/F1 9 Tf
+36 239 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 228 Td
+0.102 0.102 0.102 rg
+(5. **"You'll learn more in 2 weeks of customer conversations than in 6 months of solo development."**) Tj
+ET
+BT
+/F1 9 Tf
+36 217 Td
+0.102 0.102 0.102 rg
+(   - Use for: Motivational post for validation-hesitant founders) Tj
+ET
+BT
+/F1 9 Tf
+36 206 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 195 Td
+0.102 0.102 0.102 rg
+(6. **"Validation isn't about saying yes or no. It's about understanding *why*."**) Tj
+ET
+BT
+/F1 9 Tf
+36 184 Td
+0.102 0.102 0.102 rg
+(   - Use for: Deep-dive thread on customer psychology) Tj
+ET
+BT
+/F1 9 Tf
+36 173 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 162 Td
+0.102 0.102 0.102 rg
+(7. **"The best founders spend time understanding the market before they fall in love with a solution."**) Tj
+ET
+BT
+/F1 9 Tf
+36 151 Td
+0.102 0.102 0.102 rg
+(   - Use for: Authority post on thinking differently) Tj
+ET
+BT
+/F1 9 Tf
+36 140 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 129 Td
+0.102 0.102 0.102 rg
+(---) Tj
+ET
+BT
+/F1 9 Tf
+36 118 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 107 Td
+0.102 0.102 0.102 rg
+(### BLOG POST IDEA) Tj
+ET
+BT
+/F1 9 Tf
+36 96 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 85 Td
+0.102 0.102 0.102 rg
+(**Working Title:** "The 2-Week Product Validation Framework: How to Know if Your Idea Has a Market \(Before You Build\)") Tj
+ET
+BT
+/F1 9 Tf
+36 74 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 63 Td
+0.102 0.102 0.102 rg
+(**Structure:**) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792]
+   /Contents 15 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> >>
+endobj
+15 0 obj
+<< /Length 5709 >>
+stream
+BT
+/F1 9 Tf
+36 756 Td
+0.102 0.102 0.102 rg
+(1. Intro: The problem \(most people build first\)) Tj
+ET
+BT
+/F1 9 Tf
+36 745 Td
+0.102 0.102 0.102 rg
+(2. Section 1: Why validation matters \(stats, founder stories\)) Tj
+ET
+BT
+/F1 9 Tf
+36 734 Td
+0.102 0.102 0.102 rg
+(3. Section 2: The 3-step framework \(detailed breakdown\)) Tj
+ET
+BT
+/F1 9 Tf
+36 723 Td
+0.102 0.102 0.102 rg
+(4. Section 3: Real-world examples \(2-3 founder stories with results\)) Tj
+ET
+BT
+/F1 9 Tf
+36 712 Td
+0.102 0.102 0.102 rg
+(5. Section 4: Common mistakes \(what to avoid\)) Tj
+ET
+BT
+/F1 9 Tf
+36 701 Td
+0.102 0.102 0.102 rg
+(6. Section 5: How to start this week \(actionable steps\)) Tj
+ET
+BT
+/F1 9 Tf
+36 690 Td
+0.102 0.102 0.102 rg
+(7. Conclusion: Why this changes everything) Tj
+ET
+BT
+/F1 9 Tf
+36 679 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 668 Td
+0.102 0.102 0.102 rg
+(**Key Sections to Expand:**) Tj
+ET
+BT
+/F1 9 Tf
+36 657 Td
+0.102 0.102 0.102 rg
+(- Step 1 in detail: How to find and talk to customers \(with script\)) Tj
+ET
+BT
+/F1 9 Tf
+36 646 Td
+0.102 0.102 0.102 rg
+(- Step 2 in detail: How to pre-sell \(with template email\)) Tj
+ET
+BT
+/F1 9 Tf
+36 635 Td
+0.102 0.102 0.102 rg
+(- Step 3 in detail: What questions to ask \(with conversation framework\)) Tj
+ET
+BT
+/F1 9 Tf
+36 624 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 613 Td
+0.102 0.102 0.102 rg
+(**Estimated length:** 2,500 words) Tj
+ET
+BT
+/F1 9 Tf
+36 602 Td
+0.102 0.102 0.102 rg
+(**Tone:** Practical, conversational, story-driven) Tj
+ET
+BT
+/F1 9 Tf
+36 591 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 580 Td
+0.102 0.102 0.102 rg
+(---) Tj
+ET
+BT
+/F1 9 Tf
+36 569 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 558 Td
+0.102 0.102 0.102 rg
+(### SOCIAL MEDIA CLIPS TO EXTRACT) Tj
+ET
+BT
+/F1 9 Tf
+36 547 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 536 Td
+0.102 0.102 0.102 rg
+(**Clip 1 \(Timestamp: 7:30-9:15 / 1:45 duration\)**) Tj
+ET
+BT
+/F1 9 Tf
+36 525 Td
+0.102 0.102 0.102 rg
+(- Content: Framework introduction \(the 3 steps\)) Tj
+ET
+BT
+/F1 9 Tf
+36 514 Td
+0.102 0.102 0.102 rg
+(- Why it works: Teaches the core value in 90 seconds) Tj
+ET
+BT
+/F1 9 Tf
+36 503 Td
+0.102 0.102 0.102 rg
+(- Platform best for: YouTube Shorts, TikTok, Instagram Reels) Tj
+ET
+BT
+/F1 9 Tf
+36 492 Td
+0.102 0.102 0.102 rg
+(- Suggested graphic: 3-step framework on screen) Tj
+ET
+BT
+/F1 9 Tf
+36 481 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 470 Td
+0.102 0.102 0.102 rg
+(**Clip 2 \(Timestamp: 15:45-18:30 / 2:45 duration\)**) Tj
+ET
+BT
+/F1 9 Tf
+36 459 Td
+0.102 0.102 0.102 rg
+(- Content: First founder success story \(4-month validation journey\)) Tj
+ET
+BT
+/F1 9 Tf
+36 448 Td
+0.102 0.102 0.102 rg
+(- Why it works: Specific, relatable, proof that it works) Tj
+ET
+BT
+/F1 9 Tf
+36 437 Td
+0.102 0.102 0.102 rg
+(- Platform best for: Instagram, TikTok \(embed full clip\)) Tj
+ET
+BT
+/F1 9 Tf
+36 426 Td
+0.102 0.102 0.102 rg
+(- CTA: "Have you validated your idea?") Tj
+ET
+BT
+/F1 9 Tf
+36 415 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 404 Td
+0.102 0.102 0.102 rg
+(**Clip 3 \(Timestamp: 32:10-35:00 / 2:50 duration\)**) Tj
+ET
+BT
+/F1 9 Tf
+36 393 Td
+0.102 0.102 0.102 rg
+(- Content: Biggest mistake \(building without validation\)) Tj
+ET
+BT
+/F1 9 Tf
+36 382 Td
+0.102 0.102 0.102 rg
+(- Why it works: Reality check, slightly controversial) Tj
+ET
+BT
+/F1 9 Tf
+36 371 Td
+0.102 0.102 0.102 rg
+(- Platform best for: LinkedIn \(professional context\)) Tj
+ET
+BT
+/F1 9 Tf
+36 360 Td
+0.102 0.102 0.102 rg
+(- CTA: "Don't fall into this trap") Tj
+ET
+BT
+/F1 9 Tf
+36 349 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 338 Td
+0.102 0.102 0.102 rg
+(**Clip 4 \(Timestamp: 42:00-44:30 / 2:30 duration\)**) Tj
+ET
+BT
+/F1 9 Tf
+36 327 Td
+0.102 0.102 0.102 rg
+(- Content: Action steps to start this week) Tj
+ET
+BT
+/F1 9 Tf
+36 316 Td
+0.102 0.102 0.102 rg
+(- Why it works: Immediate actionability) Tj
+ET
+BT
+/F1 9 Tf
+36 305 Td
+0.102 0.102 0.102 rg
+(- Platform best for: YouTube Shorts, Instagram Reels) Tj
+ET
+BT
+/F1 9 Tf
+36 294 Td
+0.102 0.102 0.102 rg
+(- CTA: "Start your validation today") Tj
+ET
+BT
+/F1 9 Tf
+36 283 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 272 Td
+0.102 0.102 0.102 rg
+(---) Tj
+ET
+BT
+/F1 9 Tf
+36 261 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 250 Td
+0.102 0.102 0.102 rg
+(### SOCIAL POSTS FROM VIDEO) Tj
+ET
+BT
+/F1 9 Tf
+36 239 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 228 Td
+0.102 0.102 0.102 rg
+(**LinkedIn Post 1: Framework Overview**) Tj
+ET
+BT
+/F1 9 Tf
+36 217 Td
+0.102 0.102 0.102 rg
+(I just finished a live session on product validation.) Tj
+ET
+BT
+/F1 9 Tf
+36 206 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 195 Td
+0.102 0.102 0.102 rg
+(Here's what surprised me: Most founders spend 6 months building a product, then 3 months failing to sell it.) Tj
+ET
+BT
+/F1 9 Tf
+36 184 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 173 Td
+0.102 0.102 0.102 rg
+(Better approach: Spend 2 weeks validating. Ask 10 customers if they have the problem. Pre-sell to 2-3. *Then* build.) Tj
+ET
+BT
+/F1 9 Tf
+36 162 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 151 Td
+0.102 0.102 0.102 rg
+(Same 6-month timeline. Better odds of success.) Tj
+ET
+BT
+/F1 9 Tf
+36 140 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 129 Td
+0.102 0.102 0.102 rg
+(The 3-step framework:) Tj
+ET
+BT
+/F1 9 Tf
+36 118 Td
+0.102 0.102 0.102 rg
+(1. Talk to customers \(week 1\) - Find the problem) Tj
+ET
+BT
+/F1 9 Tf
+36 107 Td
+0.102 0.102 0.102 rg
+(2. Pre-sell \(week 2\) - Prove there's a market) Tj
+ET
+BT
+/F1 9 Tf
+36 96 Td
+0.102 0.102 0.102 rg
+(3. Interview buyers \(week 2\) - Understand what they want) Tj
+ET
+BT
+/F1 9 Tf
+36 85 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 74 Td
+0.102 0.102 0.102 rg
+(This isn't complicated. It's just *before* you fall in love with your solution.) Tj
+ET
+BT
+/F1 9 Tf
+36 63 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792]
+   /Contents 16 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> >>
+endobj
+16 0 obj
+<< /Length 4901 >>
+stream
+BT
+/F1 9 Tf
+36 756 Td
+0.102 0.102 0.102 rg
+([Clip link]) Tj
+ET
+BT
+/F1 9 Tf
+36 745 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 734 Td
+0.102 0.102 0.102 rg
+(How are you validating your next idea?) Tj
+ET
+BT
+/F1 9 Tf
+36 723 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 712 Td
+0.102 0.102 0.102 rg
+(---) Tj
+ET
+BT
+/F1 9 Tf
+36 701 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 690 Td
+0.102 0.102 0.102 rg
+(**Twitter Thread Starter \(8 tweets\)**) Tj
+ET
+BT
+/F1 9 Tf
+36 679 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 668 Td
+0.102 0.102 0.102 rg
+(1/8) Tj
+ET
+BT
+/F1 9 Tf
+36 657 Td
+0.102 0.102 0.102 rg
+(Most founders build first, ask customers later.) Tj
+ET
+BT
+/F1 9 Tf
+36 646 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 635 Td
+0.102 0.102 0.102 rg
+(Then they wonder why their product doesn't sell.) Tj
+ET
+BT
+/F1 9 Tf
+36 624 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 613 Td
+0.102 0.102 0.102 rg
+(Here's the better way: Validate in 2 weeks before building.) Tj
+ET
+BT
+/F1 9 Tf
+36 602 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 591 Td
+0.102 0.102 0.102 rg
+(I just ran through the framework with a group of founders. Here's how:) Tj
+ET
+BT
+/F1 9 Tf
+36 580 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 569 Td
+0.102 0.102 0.102 rg
+(2/8) Tj
+ET
+BT
+/F1 9 Tf
+36 558 Td
+0.102 0.102 0.102 rg
+(Step 1: Talk to 10 people in your target market.) Tj
+ET
+BT
+/F1 9 Tf
+36 547 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 536 Td
+0.102 0.102 0.102 rg
+(Don't ask "Would you use this?"—they'll say yes because they're nice.) Tj
+ET
+BT
+/F1 9 Tf
+36 525 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 514 Td
+0.102 0.102 0.102 rg
+(Instead ask: "What's the biggest pain you have in [domain]?") Tj
+ET
+BT
+/F1 9 Tf
+36 503 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 492 Td
+0.102 0.102 0.102 rg
+(Listen for patterns. If 5+ people mention the same problem, you've got market need.) Tj
+ET
+BT
+/F1 9 Tf
+36 481 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 470 Td
+0.102 0.102 0.102 rg
+(3/8) Tj
+ET
+BT
+/F1 9 Tf
+36 459 Td
+0.102 0.102 0.102 rg
+(Step 2: Try to pre-sell.) Tj
+ET
+BT
+/F1 9 Tf
+36 448 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 437 Td
+0.102 0.102 0.102 rg
+(Can you get someone to actually commit money \(even at a discount\) before the product exists?) Tj
+ET
+BT
+/F1 9 Tf
+36 426 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 415 Td
+0.102 0.102 0.102 rg
+(Offer 50% off early access. If they won't bite, you don't have a market—you have a hope.) Tj
+ET
+BT
+/F1 9 Tf
+36 404 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 393 Td
+0.102 0.102 0.102 rg
+(4/8) Tj
+ET
+BT
+/F1 9 Tf
+36 382 Td
+0.102 0.102 0.102 rg
+(Step 3: Deep dive with the "yes" people.) Tj
+ET
+BT
+/F1 9 Tf
+36 371 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 360 Td
+0.102 0.102 0.102 rg
+(You found 2-3 people willing to pay. Now talk to them in depth.) Tj
+ET
+BT
+/F1 9 Tf
+36 349 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 338 Td
+0.102 0.102 0.102 rg
+("What's the one feature you'd need first?") Tj
+ET
+BT
+/F1 9 Tf
+36 327 Td
+0.102 0.102 0.102 rg
+("What would you pay?") Tj
+ET
+BT
+/F1 9 Tf
+36 316 Td
+0.102 0.102 0.102 rg
+("What's the biggest pain with current solutions?") Tj
+ET
+BT
+/F1 9 Tf
+36 305 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 294 Td
+0.102 0.102 0.102 rg
+(They'll give you the roadmap.) Tj
+ET
+BT
+/F1 9 Tf
+36 283 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 272 Td
+0.102 0.102 0.102 rg
+(5/8) Tj
+ET
+BT
+/F1 9 Tf
+36 261 Td
+0.102 0.102 0.102 rg
+(Time investment: 2 weeks.) Tj
+ET
+BT
+/F1 9 Tf
+36 250 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 239 Td
+0.102 0.102 0.102 rg
+(Founder A: 4 months building. Launches to silence. Validates after.) Tj
+ET
+BT
+/F1 9 Tf
+36 228 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 217 Td
+0.102 0.102 0.102 rg
+(Founder B: 2 weeks validating. Finds 3 customers willing to pay. Builds for them. Does $50K/month in year 1.) Tj
+ET
+BT
+/F1 9 Tf
+36 206 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 195 Td
+0.102 0.102 0.102 rg
+(Same timeframe. Different outcomes.) Tj
+ET
+BT
+/F1 9 Tf
+36 184 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 173 Td
+0.102 0.102 0.102 rg
+(6/8) Tj
+ET
+BT
+/F1 9 Tf
+36 162 Td
+0.102 0.102 0.102 rg
+(The biggest mistake I see: Asking friends if they'd use it.) Tj
+ET
+BT
+/F1 9 Tf
+36 151 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 140 Td
+0.102 0.102 0.102 rg
+(Friends say yes because they like you.) Tj
+ET
+BT
+/F1 9 Tf
+36 129 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 118 Td
+0.102 0.102 0.102 rg
+(Customers say yes because they have money and want to solve the problem.) Tj
+ET
+BT
+/F1 9 Tf
+36 107 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 96 Td
+0.102 0.102 0.102 rg
+(There's a massive difference.) Tj
+ET
+BT
+/F1 9 Tf
+36 85 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 74 Td
+0.102 0.102 0.102 rg
+(7/8) Tj
+ET
+BT
+/F1 9 Tf
+36 63 Td
+0.102 0.102 0.102 rg
+(The hardest part? Not falling in love with your solution before you've proven the market wants it.) Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792]
+   /Contents 17 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> >>
+endobj
+17 0 obj
+<< /Length 4730 >>
+stream
+BT
+/F1 9 Tf
+36 756 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 745 Td
+0.102 0.102 0.102 rg
+(Most founders skip validation because it *feels* like slower progress.) Tj
+ET
+BT
+/F1 9 Tf
+36 734 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 723 Td
+0.102 0.102 0.102 rg
+(Actually, it's the fastest path to product-market fit.) Tj
+ET
+BT
+/F1 9 Tf
+36 712 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 701 Td
+0.102 0.102 0.102 rg
+(8/8) Tj
+ET
+BT
+/F1 9 Tf
+36 690 Td
+0.102 0.102 0.102 rg
+(Start this week:) Tj
+ET
+BT
+/F1 9 Tf
+36 679 Td
+0.102 0.102 0.102 rg
+(- Pick one problem) Tj
+ET
+BT
+/F1 9 Tf
+36 668 Td
+0.102 0.102 0.102 rg
+(- Find 10 people with that problem) Tj
+ET
+BT
+/F1 9 Tf
+36 657 Td
+0.102 0.102 0.102 rg
+(- Ask what their current solution is) Tj
+ET
+BT
+/F1 9 Tf
+36 646 Td
+0.102 0.102 0.102 rg
+(- Ask what doesn't work) Tj
+ET
+BT
+/F1 9 Tf
+36 635 Td
+0.102 0.102 0.102 rg
+(- Notice patterns) Tj
+ET
+BT
+/F1 9 Tf
+36 624 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 613 Td
+0.102 0.102 0.102 rg
+(That's 3-4 hours. It'll change your approach.) Tj
+ET
+BT
+/F1 9 Tf
+36 602 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 591 Td
+0.102 0.102 0.102 rg
+(---) Tj
+ET
+BT
+/F1 9 Tf
+36 580 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 569 Td
+0.102 0.102 0.102 rg
+(**Instagram Post \(Caption\)**) Tj
+ET
+BT
+/F1 9 Tf
+36 558 Td
+0.102 0.102 0.102 rg
+(Wait before you build.) Tj
+ET
+BT
+/F1 9 Tf
+36 547 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 536 Td
+0.102 0.102 0.102 rg
+(Most founders fall in love with an idea and start coding immediately.) Tj
+ET
+BT
+/F1 9 Tf
+36 525 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 514 Td
+0.102 0.102 0.102 rg
+(Then they spend 6 months building something nobody wants.) Tj
+ET
+BT
+/F1 9 Tf
+36 503 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 492 Td
+0.102 0.102 0.102 rg
+(Different approach: Spend 2 weeks talking to customers first.) Tj
+ET
+BT
+/F1 9 Tf
+36 481 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 470 Td
+0.102 0.102 0.102 rg
+(Here's the framework:) Tj
+ET
+BT
+/F1 9 Tf
+36 459 Td
+0.102 0.102 0.102 rg
+(- Week 1: Talk to 10 people. Ask about their problems \(not your solution\).) Tj
+ET
+BT
+/F1 9 Tf
+36 448 Td
+0.102 0.102 0.102 rg
+(- Week 2: Pre-sell to 2-3. If they won't pay, you don't have a market.) Tj
+ET
+BT
+/F1 9 Tf
+36 437 Td
+0.102 0.102 0.102 rg
+(- Week 2: Interview the buyers. Ask what they really need.) Tj
+ET
+BT
+/F1 9 Tf
+36 426 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 415 Td
+0.102 0.102 0.102 rg
+(Founders who do this:) Tj
+ET
+BT
+/F1 9 Tf
+36 404 Td
+0.102 0.102 0.102 rg
+(- Save 4+ months of wrong development) Tj
+ET
+BT
+/F1 9 Tf
+36 393 Td
+0.102 0.102 0.102 rg
+(- Find customers before launch) Tj
+ET
+BT
+/F1 9 Tf
+36 382 Td
+0.102 0.102 0.102 rg
+(- Know exactly what to build) Tj
+ET
+BT
+/F1 9 Tf
+36 371 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 360 Td
+0.102 0.102 0.102 rg
+(Founders who skip this:) Tj
+ET
+BT
+/F1 9 Tf
+36 349 Td
+0.102 0.102 0.102 rg
+(- Build for 6 months) Tj
+ET
+BT
+/F1 9 Tf
+36 338 Td
+0.102 0.102 0.102 rg
+(- Launch to crickets) Tj
+ET
+BT
+/F1 9 Tf
+36 327 Td
+0.102 0.102 0.102 rg
+(- Wonder why nobody cares) Tj
+ET
+BT
+/F1 9 Tf
+36 316 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 305 Td
+0.102 0.102 0.102 rg
+(Two paths. Same timeline.) Tj
+ET
+BT
+/F1 9 Tf
+36 294 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 283 Td
+0.102 0.102 0.102 rg
+(One works.) Tj
+ET
+BT
+/F1 9 Tf
+36 272 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 261 Td
+0.102 0.102 0.102 rg
+([Clip or thumbnail link]) Tj
+ET
+BT
+/F1 9 Tf
+36 250 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 239 Td
+0.102 0.102 0.102 rg
+(Which path are you on?) Tj
+ET
+BT
+/F1 9 Tf
+36 228 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 217 Td
+0.102 0.102 0.102 rg
+(---) Tj
+ET
+BT
+/F1 9 Tf
+36 206 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 195 Td
+0.102 0.102 0.102 rg
+(**TikTok Script \(30 seconds\)**) Tj
+ET
+BT
+/F1 9 Tf
+36 184 Td
+0.102 0.102 0.102 rg
+([0:00-0:02] Hook) Tj
+ET
+BT
+/F1 9 Tf
+36 173 Td
+0.102 0.102 0.102 rg
+(TEXT: "Don't build yet") Tj
+ET
+BT
+/F1 9 Tf
+36 162 Td
+0.102 0.102 0.102 rg
+(SPOKEN: "If you're about to start a project, watch this first.") Tj
+ET
+BT
+/F1 9 Tf
+36 151 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 140 Td
+0.102 0.102 0.102 rg
+([0:02-0:10] Problem) Tj
+ET
+BT
+/F1 9 Tf
+36 129 Td
+0.102 0.102 0.102 rg
+(TEXT: "Most founders build for 6 months") Tj
+ET
+BT
+/F1 9 Tf
+36 118 Td
+0.102 0.102 0.102 rg
+(TEXT: "Then try to sell") Tj
+ET
+BT
+/F1 9 Tf
+36 107 Td
+0.102 0.102 0.102 rg
+(TEXT: "Then fail") Tj
+ET
+BT
+/F1 9 Tf
+36 96 Td
+0.102 0.102 0.102 rg
+(SPOKEN: "Because they built the wrong thing.") Tj
+ET
+BT
+/F1 9 Tf
+36 85 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 74 Td
+0.102 0.102 0.102 rg
+([0:10-0:20] Solution) Tj
+ET
+BT
+/F1 9 Tf
+36 63 Td
+0.102 0.102 0.102 rg
+(TEXT: "Instead: Validate in 2 weeks") Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792]
+   /Contents 18 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> >>
+endobj
+18 0 obj
+<< /Length 4897 >>
+stream
+BT
+/F1 9 Tf
+36 756 Td
+0.102 0.102 0.102 rg
+(TEXT: "Talk to 10 customers") Tj
+ET
+BT
+/F1 9 Tf
+36 745 Td
+0.102 0.102 0.102 rg
+(TEXT: "Pre-sell to 2-3") Tj
+ET
+BT
+/F1 9 Tf
+36 734 Td
+0.102 0.102 0.102 rg
+(TEXT: "Then build") Tj
+ET
+BT
+/F1 9 Tf
+36 723 Td
+0.102 0.102 0.102 rg
+(SPOKEN: "Same timeline. You actually have customers when you launch.") Tj
+ET
+BT
+/F1 9 Tf
+36 712 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 701 Td
+0.102 0.102 0.102 rg
+([0:20-0:30] CTA) Tj
+ET
+BT
+/F1 9 Tf
+36 690 Td
+0.102 0.102 0.102 rg
+(TEXT: "This framework changed everything") Tj
+ET
+BT
+/F1 9 Tf
+36 679 Td
+0.102 0.102 0.102 rg
+(SPOKEN: "Try it this week.") Tj
+ET
+BT
+/F1 9 Tf
+36 668 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 657 Td
+0.102 0.102 0.102 rg
+(---) Tj
+ET
+BT
+/F1 9 Tf
+36 646 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 635 Td
+0.102 0.102 0.102 rg
+(### EMAIL VARIATIONS) Tj
+ET
+BT
+/F1 9 Tf
+36 624 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 613 Td
+0.102 0.102 0.102 rg
+(**Email 1: Concept Introduction**) Tj
+ET
+BT
+/F1 9 Tf
+36 602 Td
+0.102 0.102 0.102 rg
+(Subject: Don't build yet \(validate first\)) Tj
+ET
+BT
+/F1 9 Tf
+36 591 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 580 Td
+0.102 0.102 0.102 rg
+(---) Tj
+ET
+BT
+/F1 9 Tf
+36 569 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 558 Td
+0.102 0.102 0.102 rg
+(Hi [First Name],) Tj
+ET
+BT
+/F1 9 Tf
+36 547 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 536 Td
+0.102 0.102 0.102 rg
+(I just finished a session with 50 founders about product validation.) Tj
+ET
+BT
+/F1 9 Tf
+36 525 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 514 Td
+0.102 0.102 0.102 rg
+(And the pattern was obvious: Everyone wanted to start building immediately.) Tj
+ET
+BT
+/F1 9 Tf
+36 503 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 492 Td
+0.102 0.102 0.102 rg
+(Here's the problem with that: You don't know if anyone wants what you're building.) Tj
+ET
+BT
+/F1 9 Tf
+36 481 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 470 Td
+0.102 0.102 0.102 rg
+(So you spend 6 months building. Then 3 months trying to sell it. Then you quit because the market doesn't exist.) Tj
+ET
+BT
+/F1 9 Tf
+36 459 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 448 Td
+0.102 0.102 0.102 rg
+(Better approach: Spend 2 weeks validating first.) Tj
+ET
+BT
+/F1 9 Tf
+36 437 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 426 Td
+0.102 0.102 0.102 rg
+(Talk to 10 customers. Pre-sell to 2-3. *Then* build.) Tj
+ET
+BT
+/F1 9 Tf
+36 415 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 404 Td
+0.102 0.102 0.102 rg
+(Same 6-month timeline. But now you have customers and a roadmap.) Tj
+ET
+BT
+/F1 9 Tf
+36 393 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 382 Td
+0.102 0.102 0.102 rg
+(I recorded the full framework here. It's 45 minutes but worth the time if you're thinking about your next idea.) Tj
+ET
+BT
+/F1 9 Tf
+36 371 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 360 Td
+0.102 0.102 0.102 rg
+([Link to video]) Tj
+ET
+BT
+/F1 9 Tf
+36 349 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 338 Td
+0.102 0.102 0.102 rg
+(The 3 steps are dead simple. Most founders just skip them because they feel slow.) Tj
+ET
+BT
+/F1 9 Tf
+36 327 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 316 Td
+0.102 0.102 0.102 rg
+(Actually, they're the fastest path to product-market fit.) Tj
+ET
+BT
+/F1 9 Tf
+36 305 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 294 Td
+0.102 0.102 0.102 rg
+([Your name]) Tj
+ET
+BT
+/F1 9 Tf
+36 283 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 272 Td
+0.102 0.102 0.102 rg
+(---) Tj
+ET
+BT
+/F1 9 Tf
+36 261 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 250 Td
+0.102 0.102 0.102 rg
+(**Email 2: Framework Deep Dive**) Tj
+ET
+BT
+/F1 9 Tf
+36 239 Td
+0.102 0.102 0.102 rg
+(Subject: The 2-week validation framework I just shared \(detailed\)) Tj
+ET
+BT
+/F1 9 Tf
+36 228 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 217 Td
+0.102 0.102 0.102 rg
+(---) Tj
+ET
+BT
+/F1 9 Tf
+36 206 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 195 Td
+0.102 0.102 0.102 rg
+(Hi [First Name],) Tj
+ET
+BT
+/F1 9 Tf
+36 184 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 173 Td
+0.102 0.102 0.102 rg
+(Got a lot of questions about the validation framework from the live session.) Tj
+ET
+BT
+/F1 9 Tf
+36 162 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 151 Td
+0.102 0.102 0.102 rg
+(Here's the breakdown:) Tj
+ET
+BT
+/F1 9 Tf
+36 140 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 129 Td
+0.102 0.102 0.102 rg
+(**Step 1: Customer Discovery \(Week 1\)**) Tj
+ET
+BT
+/F1 9 Tf
+36 118 Td
+0.102 0.102 0.102 rg
+(Find 10 people who have the problem you think you're solving.) Tj
+ET
+BT
+/F1 9 Tf
+36 107 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 96 Td
+0.102 0.102 0.102 rg
+(Ask them: "What's the biggest pain in [domain]?") Tj
+ET
+BT
+/F1 9 Tf
+36 85 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 74 Td
+0.102 0.102 0.102 rg
+(Listen. Write down patterns. If 5+ mention the same problem, you've confirmed market need.) Tj
+ET
+BT
+/F1 9 Tf
+36 63 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792]
+   /Contents 19 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> >>
+endobj
+19 0 obj
+<< /Length 4775 >>
+stream
+BT
+/F1 9 Tf
+36 756 Td
+0.102 0.102 0.102 rg
+(Time: ~10 hours. Cost: $0.) Tj
+ET
+BT
+/F1 9 Tf
+36 745 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 734 Td
+0.102 0.102 0.102 rg
+(**Step 2: Pre-sell \(Week 2\)**) Tj
+ET
+BT
+/F1 9 Tf
+36 723 Td
+0.102 0.102 0.102 rg
+(Offer early access at 50% discount.) Tj
+ET
+BT
+/F1 9 Tf
+36 712 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 701 Td
+0.102 0.102 0.102 rg
+("I'm building X. Would you pay $50/month for early access?") Tj
+ET
+BT
+/F1 9 Tf
+36 690 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 679 Td
+0.102 0.102 0.102 rg
+(If they say yes: You have a market + a customer.) Tj
+ET
+BT
+/F1 9 Tf
+36 668 Td
+0.102 0.102 0.102 rg
+(If they say no: You don't have a market \(yet\).) Tj
+ET
+BT
+/F1 9 Tf
+36 657 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 646 Td
+0.102 0.102 0.102 rg
+(Either way, you've learned more than 6 months of building would teach you.) Tj
+ET
+BT
+/F1 9 Tf
+36 635 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 624 Td
+0.102 0.102 0.102 rg
+(Time: ~5 hours. Cost: $0 \(you're not building yet\).) Tj
+ET
+BT
+/F1 9 Tf
+36 613 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 602 Td
+0.102 0.102 0.102 rg
+(**Step 3: Customer Interviews \(Week 2\)**) Tj
+ET
+BT
+/F1 9 Tf
+36 591 Td
+0.102 0.102 0.102 rg
+(Talk to the people who said yes.) Tj
+ET
+BT
+/F1 9 Tf
+36 580 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 569 Td
+0.102 0.102 0.102 rg
+("What feature would you need first?") Tj
+ET
+BT
+/F1 9 Tf
+36 558 Td
+0.102 0.102 0.102 rg
+("What's the pain with current solutions?") Tj
+ET
+BT
+/F1 9 Tf
+36 547 Td
+0.102 0.102 0.102 rg
+("What would you pay?") Tj
+ET
+BT
+/F1 9 Tf
+36 536 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 525 Td
+0.102 0.102 0.102 rg
+(These conversations become your product roadmap.) Tj
+ET
+BT
+/F1 9 Tf
+36 514 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 503 Td
+0.102 0.102 0.102 rg
+(Time: ~5 hours. Cost: $0.) Tj
+ET
+BT
+/F1 9 Tf
+36 492 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 481 Td
+0.102 0.102 0.102 rg
+(**Total: 2 weeks. $0 spent. Market validated. Roadmap clear.**) Tj
+ET
+BT
+/F1 9 Tf
+36 470 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 459 Td
+0.102 0.102 0.102 rg
+(Then build.) Tj
+ET
+BT
+/F1 9 Tf
+36 448 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 437 Td
+0.102 0.102 0.102 rg
+([Link to full video]) Tj
+ET
+BT
+/F1 9 Tf
+36 426 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 415 Td
+0.102 0.102 0.102 rg
+([Your name]) Tj
+ET
+BT
+/F1 9 Tf
+36 404 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 393 Td
+0.102 0.102 0.102 rg
+(---) Tj
+ET
+BT
+/F1 9 Tf
+36 382 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 371 Td
+0.102 0.102 0.102 rg
+(**Email 3: Success/Failure Stories**) Tj
+ET
+BT
+/F1 9 Tf
+36 360 Td
+0.102 0.102 0.102 rg
+(Subject: Why some founders build wrong \(and how to avoid it\)) Tj
+ET
+BT
+/F1 9 Tf
+36 349 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 338 Td
+0.102 0.102 0.102 rg
+(---) Tj
+ET
+BT
+/F1 9 Tf
+36 327 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 316 Td
+0.102 0.102 0.102 rg
+(Hi [First Name],) Tj
+ET
+BT
+/F1 9 Tf
+36 305 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 294 Td
+0.102 0.102 0.102 rg
+(Quick story from the validation session:) Tj
+ET
+BT
+/F1 9 Tf
+36 283 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 272 Td
+0.102 0.102 0.102 rg
+(**Founder A:**) Tj
+ET
+BT
+/F1 9 Tf
+36 261 Td
+0.102 0.102 0.102 rg
+(Spent 4 months building a project management tool alone. Beautiful code, great features. Launched to his network.) Tj
+ET
+BT
+/F1 9 Tf
+36 250 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 239 Td
+0.102 0.102 0.102 rg
+(0 customers.) Tj
+ET
+BT
+/F1 9 Tf
+36 228 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 217 Td
+0.102 0.102 0.102 rg
+(He validated *after* building.) Tj
+ET
+BT
+/F1 9 Tf
+36 206 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 195 Td
+0.102 0.102 0.102 rg
+(Discovered customers needed something completely different than what he built.) Tj
+ET
+BT
+/F1 9 Tf
+36 184 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 173 Td
+0.102 0.102 0.102 rg
+(**Founder B:**) Tj
+ET
+BT
+/F1 9 Tf
+36 162 Td
+0.102 0.102 0.102 rg
+(Spent 2 weeks talking to product managers. Found out they hated their current tool for one specific reason: poor integration with Slack.) Tj
+ET
+BT
+/F1 9 Tf
+36 151 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 140 Td
+0.102 0.102 0.102 rg
+(Pre-sold a Slack-integrated tool to 3 of them before building.) Tj
+ET
+BT
+/F1 9 Tf
+36 129 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 118 Td
+0.102 0.102 0.102 rg
+(Now doing $50K/month.) Tj
+ET
+BT
+/F1 9 Tf
+36 107 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 96 Td
+0.102 0.102 0.102 rg
+(Same market. Different approaches.) Tj
+ET
+BT
+/F1 9 Tf
+36 85 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 74 Td
+0.102 0.102 0.102 rg
+(The difference? Founder B validated. Founder A didn't.) Tj
+ET
+BT
+/F1 9 Tf
+36 63 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792]
+   /Contents 20 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> >>
+endobj
+20 0 obj
+<< /Length 3594 >>
+stream
+BT
+/F1 9 Tf
+36 756 Td
+0.102 0.102 0.102 rg
+(The pattern is consistent: Founders who validate before building succeed faster.) Tj
+ET
+BT
+/F1 9 Tf
+36 745 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 734 Td
+0.102 0.102 0.102 rg
+(Founders who build first hope to sell later.) Tj
+ET
+BT
+/F1 9 Tf
+36 723 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 712 Td
+0.102 0.102 0.102 rg
+(Only one of these strategies actually works.) Tj
+ET
+BT
+/F1 9 Tf
+36 701 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 690 Td
+0.102 0.102 0.102 rg
+([Full video breakdown]) Tj
+ET
+BT
+/F1 9 Tf
+36 679 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 668 Td
+0.102 0.102 0.102 rg
+([Your name]) Tj
+ET
+BT
+/F1 9 Tf
+36 657 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 646 Td
+0.102 0.102 0.102 rg
+(---) Tj
+ET
+BT
+/F1 9 Tf
+36 635 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 624 Td
+0.102 0.102 0.102 rg
+(## REPURPOSING SUMMARY) Tj
+ET
+BT
+/F1 9 Tf
+36 613 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 602 Td
+0.102 0.102 0.102 rg
+(**Total Content Generated from One 45-Minute Video: 18+ pieces**) Tj
+ET
+BT
+/F1 9 Tf
+36 591 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 580 Td
+0.102 0.102 0.102 rg
+(- 1 blog post outline \(expand to 2,500 words\)) Tj
+ET
+BT
+/F1 9 Tf
+36 569 Td
+0.102 0.102 0.102 rg
+(- 7 social posts \(LinkedIn, Twitter, Instagram, TikTok\)) Tj
+ET
+BT
+/F1 9 Tf
+36 558 Td
+0.102 0.102 0.102 rg
+(- 4 video clips extracted \(30 sec - 2 min each\)) Tj
+ET
+BT
+/F1 9 Tf
+36 547 Td
+0.102 0.102 0.102 rg
+(- 7 quotable moments \(for graphics/shares\)) Tj
+ET
+BT
+/F1 9 Tf
+36 536 Td
+0.102 0.102 0.102 rg
+(- 3 email variations) Tj
+ET
+BT
+/F1 9 Tf
+36 525 Td
+0.102 0.102 0.102 rg
+(- Podcast show notes \(if released as audio\)) Tj
+ET
+BT
+/F1 9 Tf
+36 514 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 503 Td
+0.102 0.102 0.102 rg
+(**Scheduling Timeline:**) Tj
+ET
+BT
+/F1 9 Tf
+36 492 Td
+0.102 0.102 0.102 rg
+(- Week 1: LinkedIn/Twitter posts + extracted clips) Tj
+ET
+BT
+/F1 9 Tf
+36 481 Td
+0.102 0.102 0.102 rg
+(- Week 2: Blog post published + email #1) Tj
+ET
+BT
+/F1 9 Tf
+36 470 Td
+0.102 0.102 0.102 rg
+(- Week 3: Instagram post + email #2) Tj
+ET
+BT
+/F1 9 Tf
+36 459 Td
+0.102 0.102 0.102 rg
+(- Week 4: TikTok clips + email #3) Tj
+ET
+BT
+/F1 9 Tf
+36 448 Td
+0.102 0.102 0.102 rg
+(- Ongoing: Use quotes for graphics/social) Tj
+ET
+BT
+/F1 9 Tf
+36 437 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 426 Td
+0.102 0.102 0.102 rg
+(This single 45-minute video becomes a 4-week content campaign.) Tj
+ET
+BT
+/F2 16 Tf
+36 401 Td
+0.176 0.176 0.176 rg
+(Pro Tips) Tj
+ET
+BT
+/F1 11 Tf
+36 377 Td
+0.200 0.200 0.200 rg
+(**Tip 1: Extract Clips With Sound On** Video clips work best when they're) Tj
+ET
+BT
+/F1 11 Tf
+36 364 Td
+0.200 0.200 0.200 rg
+(extracted with natural sound \(speaker's voice\), not as silent B-roll. This) Tj
+ET
+BT
+/F1 11 Tf
+36 351 Td
+0.200 0.200 0.200 rg
+(keeps people watching on muted platforms like Instagram or Facebook. **Tip) Tj
+ET
+BT
+/F1 11 Tf
+36 338 Td
+0.200 0.200 0.200 rg
+(2: Use Timestamps in Your Video** If you're creating new video content, add) Tj
+ET
+BT
+/F1 11 Tf
+36 325 Td
+0.200 0.200 0.200 rg
+(timecode overlays \(0:00, 5:00, 10:00\) so it's easy to find the best moments) Tj
+ET
+BT
+/F1 11 Tf
+36 312 Td
+0.200 0.200 0.200 rg
+(later for repurposing. **Tip 3: Create a "Quotables" Graphic Pack** For) Tj
+ET
+BT
+/F1 11 Tf
+36 299 Td
+0.200 0.200 0.200 rg
+(each quotable moment, create 3 versions \(different background) Tj
+ET
+BT
+/F1 11 Tf
+36 286 Td
+0.200 0.200 0.200 rg
+(colors/styles\). Schedule them over 3 weeks. Quotes get reposted by) Tj
+ET
+BT
+/F1 11 Tf
+36 273 Td
+0.200 0.200 0.200 rg
+(followers, extending your reach.) Tj
+ET
+endstream
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000174 00000 n 
+0000005133 00000 n 
+0000010613 00000 n 
+0000016446 00000 n 
+0000022450 00000 n 
+0000027646 00000 n 
+0000032671 00000 n 
+0000037863 00000 n 
+0000042934 00000 n 
+0000000417 00000 n 
+0000005376 00000 n 
+0000010856 00000 n 
+0000016689 00000 n 
+0000022693 00000 n 
+0000027889 00000 n 
+0000032914 00000 n 
+0000038107 00000 n 
+0000043178 00000 n 
+trailer
+<< /Size 21 /Root 1 0 R >>
+startxref
+46821
+%%EOF

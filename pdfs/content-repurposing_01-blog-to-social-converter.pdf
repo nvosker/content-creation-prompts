@@ -1,0 +1,3960 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R] /Count 11 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792]
+   /Contents 14 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> >>
+endobj
+14 0 obj
+<< /Length 5117 >>
+stream
+BT
+/F1 11 Tf
+36 756 Td
+0.200 0.200 0.200 rg
+([TIER: PREMIUM] [PRICE: $12]) Tj
+ET
+BT
+/F2 24 Tf
+36 739 Td
+0.102 0.102 0.102 rg
+(Blog-to-Social Content Converter) Tj
+ET
+BT
+/F2 16 Tf
+36 695 Td
+0.176 0.176 0.176 rg
+(Description) Tj
+ET
+BT
+/F1 11 Tf
+36 671 Td
+0.200 0.200 0.200 rg
+(Transform a single blog post into 15-20 unique social media posts across) Tj
+ET
+BT
+/F1 11 Tf
+36 658 Td
+0.200 0.200 0.200 rg
+(multiple platforms \(LinkedIn, Twitter, Instagram\). Includes) Tj
+ET
+BT
+/F1 11 Tf
+36 645 Td
+0.200 0.200 0.200 rg
+(platform-specific formatting and hook strategies. Maximize content ROI and) Tj
+ET
+BT
+/F1 11 Tf
+36 632 Td
+0.200 0.200 0.200 rg
+(build consistent social presence without writing from scratch every time.) Tj
+ET
+BT
+/F2 16 Tf
+36 607 Td
+0.176 0.176 0.176 rg
+(Prompt Text) Tj
+ET
+BT
+/F1 9 Tf
+36 577 Td
+0.102 0.102 0.102 rg
+(You are an expert content repurposing strategist who turns one blog post into endless social content.) Tj
+ET
+BT
+/F1 9 Tf
+36 566 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 555 Td
+0.102 0.102 0.102 rg
+(I have a blog post about: [TOPIC]) Tj
+ET
+BT
+/F1 9 Tf
+36 544 Td
+0.102 0.102 0.102 rg
+(Blog post key insight: [MAIN TAKEAWAY - e.g., "most cold emails fail because they don't show empathy first"]) Tj
+ET
+BT
+/F1 9 Tf
+36 533 Td
+0.102 0.102 0.102 rg
+(Blog post length: [ROUGH LENGTH - e.g., "2,500 words"]) Tj
+ET
+BT
+/F1 9 Tf
+36 522 Td
+0.102 0.102 0.102 rg
+(Target audience: [WHO YOU'RE TALKING TO - e.g., "sales professionals and entrepreneurs"]) Tj
+ET
+BT
+/F1 9 Tf
+36 511 Td
+0.102 0.102 0.102 rg
+(Platforms to target: [e.g., "LinkedIn, Twitter, Instagram, TikTok"]) Tj
+ET
+BT
+/F1 9 Tf
+36 500 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 489 Td
+0.102 0.102 0.102 rg
+(Generate social posts by extracting ideas from the blog and reformatting for each platform:) Tj
+ET
+BT
+/F1 9 Tf
+36 478 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 467 Td
+0.102 0.102 0.102 rg
+(**For LinkedIn \(3-4 posts\):**) Tj
+ET
+BT
+/F1 9 Tf
+36 456 Td
+0.102 0.102 0.102 rg
+(- 1 authority-building post \(quote or insight from the blog with commentary\)) Tj
+ET
+BT
+/F1 9 Tf
+36 445 Td
+0.102 0.102 0.102 rg
+(- 1 poll-style post \(engagement-driving\)) Tj
+ET
+BT
+/F1 9 Tf
+36 434 Td
+0.102 0.102 0.102 rg
+(- 1 story-style post \(vulnerable share or case study\)) Tj
+ET
+BT
+/F1 9 Tf
+36 423 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 412 Td
+0.102 0.102 0.102 rg
+(**For Twitter/X \(4-5 posts\):**) Tj
+ET
+BT
+/F1 9 Tf
+36 401 Td
+0.102 0.102 0.102 rg
+(- 1 thread \(8-10 tweets based on main framework\)) Tj
+ET
+BT
+/F1 9 Tf
+36 390 Td
+0.102 0.102 0.102 rg
+(- 1-2 hot take posts \(contrarian angles\)) Tj
+ET
+BT
+/F1 9 Tf
+36 379 Td
+0.102 0.102 0.102 rg
+(- 2-3 quick tips \(shareable, retweet-worthy\)) Tj
+ET
+BT
+/F1 9 Tf
+36 368 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 357 Td
+0.102 0.102 0.102 rg
+(**For Instagram \(3-4 posts\):**) Tj
+ET
+BT
+/F1 9 Tf
+36 346 Td
+0.102 0.102 0.102 rg
+(- 1 carousel post script \(teaching framework visually\)) Tj
+ET
+BT
+/F1 9 Tf
+36 335 Td
+0.102 0.102 0.102 rg
+(- 1 caption-heavy post \(vulnerable story\)) Tj
+ET
+BT
+/F1 9 Tf
+36 324 Td
+0.102 0.102 0.102 rg
+(- 1-2 quote graphics \(with caption to drive saves\)) Tj
+ET
+BT
+/F1 9 Tf
+36 313 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 302 Td
+0.102 0.102 0.102 rg
+(**For TikTok \(2-3 scripts\):**) Tj
+ET
+BT
+/F1 9 Tf
+36 291 Td
+0.102 0.102 0.102 rg
+(- 1-2 15-30 second hook + tip videos) Tj
+ET
+BT
+/F1 9 Tf
+36 280 Td
+0.102 0.102 0.102 rg
+(- 1 talking-head video \(you sharing the core insight\)) Tj
+ET
+BT
+/F1 9 Tf
+36 269 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 258 Td
+0.102 0.102 0.102 rg
+(**For Email/Newsletter \(2-3 variations\):**) Tj
+ET
+BT
+/F1 9 Tf
+36 247 Td
+0.102 0.102 0.102 rg
+(- 1 email highlighting the blog with unique insight) Tj
+ET
+BT
+/F1 9 Tf
+36 236 Td
+0.102 0.102 0.102 rg
+(- 1 email from the blog's data/stats) Tj
+ET
+BT
+/F1 9 Tf
+36 225 Td
+0.102 0.102 0.102 rg
+(- 1 email addressing objections the blog raises) Tj
+ET
+BT
+/F1 9 Tf
+36 214 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 203 Td
+0.102 0.102 0.102 rg
+(For each post, include:) Tj
+ET
+BT
+/F1 9 Tf
+36 192 Td
+0.102 0.102 0.102 rg
+(- Platform-specific formatting) Tj
+ET
+BT
+/F1 9 Tf
+36 181 Td
+0.102 0.102 0.102 rg
+(- Hook \(what makes them stop scrolling\)) Tj
+ET
+BT
+/F1 9 Tf
+36 170 Td
+0.102 0.102 0.102 rg
+(- Main idea \(what you're teaching/sharing\)) Tj
+ET
+BT
+/F1 9 Tf
+36 159 Td
+0.102 0.102 0.102 rg
+(- CTA \(what you want them to do\)) Tj
+ET
+BT
+/F1 9 Tf
+36 148 Td
+0.102 0.102 0.102 rg
+(- Hashtags \(if relevant\)) Tj
+ET
+BT
+/F1 9 Tf
+36 137 Td
+0.102 0.102 0.102 rg
+(- Character count \(if applicable\)) Tj
+ET
+BT
+/F1 9 Tf
+36 126 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 115 Td
+0.102 0.102 0.102 rg
+(Avoid:) Tj
+ET
+BT
+/F1 9 Tf
+36 104 Td
+0.102 0.102 0.102 rg
+(- Direct copy-paste of blog text \(reframe for platform\)) Tj
+ET
+BT
+/F1 9 Tf
+36 93 Td
+0.102 0.102 0.102 rg
+(- Over-hashtag spam \(limit to 3-5 max per platform\)) Tj
+ET
+BT
+/F1 9 Tf
+36 82 Td
+0.102 0.102 0.102 rg
+(- Generic CTAs \("Share this post!"\)) Tj
+ET
+BT
+/F1 9 Tf
+36 71 Td
+0.102 0.102 0.102 rg
+(- Ignoring platform norms \(TikTok ≠ LinkedIn tone\)) Tj
+ET
+BT
+/F1 9 Tf
+36 60 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792]
+   /Contents 15 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> >>
+endobj
+15 0 obj
+<< /Length 5294 >>
+stream
+BT
+/F1 9 Tf
+36 756 Td
+0.102 0.102 0.102 rg
+(Format as a repurposing brief with all posts ready to schedule.) Tj
+ET
+BT
+/F2 16 Tf
+36 731 Td
+0.176 0.176 0.176 rg
+(Example Input) Tj
+ET
+BT
+/F1 11 Tf
+36 707 Td
+0.200 0.200 0.200 rg
+(**Blog Post:** "How to Write a Winning Cold Email \(That Actually Gets) Tj
+ET
+BT
+/F1 11 Tf
+36 694 Td
+0.200 0.200 0.200 rg
+(Responses\)" **Key Insight:** Most cold emails fail because they lead with) Tj
+ET
+BT
+/F1 11 Tf
+36 681 Td
+0.200 0.200 0.200 rg
+(the product pitch, not the person's problems **Post Length:** 2,200 words) Tj
+ET
+BT
+/F1 11 Tf
+36 668 Td
+0.200 0.200 0.200 rg
+(**Target Audience:** Sales professionals, entrepreneurs, business) Tj
+ET
+BT
+/F1 11 Tf
+36 655 Td
+0.200 0.200 0.200 rg
+(development folks **Platforms:** LinkedIn, Twitter, Instagram, TikTok) Tj
+ET
+BT
+/F2 16 Tf
+36 630 Td
+0.176 0.176 0.176 rg
+(Example Output) Tj
+ET
+BT
+/F1 9 Tf
+36 600 Td
+0.102 0.102 0.102 rg
+(---) Tj
+ET
+BT
+/F1 9 Tf
+36 589 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 578 Td
+0.102 0.102 0.102 rg
+(## LINKEDIN REPURPOSING \(4 posts\)) Tj
+ET
+BT
+/F1 9 Tf
+36 567 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 556 Td
+0.102 0.102 0.102 rg
+(### Post 1: Authority-Building Insight) Tj
+ET
+BT
+/F1 9 Tf
+36 545 Td
+0.102 0.102 0.102 rg
+(Your best cold email probably starts with your company and what you do.) Tj
+ET
+BT
+/F1 9 Tf
+36 534 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 523 Td
+0.102 0.102 0.102 rg
+(That's exactly why it's not getting responses.) Tj
+ET
+BT
+/F1 9 Tf
+36 512 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 501 Td
+0.102 0.102 0.102 rg
+(I've analyzed 100+ cold emails, and the pattern is obvious: The ones that get meetings start differently. They start with *their* problem, not your solution.) Tj
+ET
+BT
+/F1 9 Tf
+36 490 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 479 Td
+0.102 0.102 0.102 rg
+(The shift sounds small. It's not.) Tj
+ET
+BT
+/F1 9 Tf
+36 468 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 457 Td
+0.102 0.102 0.102 rg
+([Email A] "Hi [Name], I help B2B SaaS companies improve email open rates...") Tj
+ET
+BT
+/F1 9 Tf
+36 446 Td
+0.102 0.102 0.102 rg
+([Email B] "Hi [Name], I noticed your team is losing 30% of cold leads because your follow-up sequence is weak...") Tj
+ET
+BT
+/F1 9 Tf
+36 435 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 424 Td
+0.102 0.102 0.102 rg
+(Email B gets 3x the response rate. Same writer. Same offer. Different opening.) Tj
+ET
+BT
+/F1 9 Tf
+36 413 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 402 Td
+0.102 0.102 0.102 rg
+(Here's why: Nobody cares about what you do until they believe you understand their problem. And you can't prove that by talking about yourself.) Tj
+ET
+BT
+/F1 9 Tf
+36 391 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 380 Td
+0.102 0.102 0.102 rg
+(The best cold emails do three things differently:) Tj
+ET
+BT
+/F1 9 Tf
+36 369 Td
+0.102 0.102 0.102 rg
+(1. Lead with their problem, not your product) Tj
+ET
+BT
+/F1 9 Tf
+36 358 Td
+0.102 0.102 0.102 rg
+(2. Show specific evidence you understand their world) Tj
+ET
+BT
+/F1 9 Tf
+36 347 Td
+0.102 0.102 0.102 rg
+(3. Ask for a conversation, not a commitment) Tj
+ET
+BT
+/F1 9 Tf
+36 336 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 325 Td
+0.102 0.102 0.102 rg
+(I spent a weekend writing a detailed breakdown of how to structure these. Link in bio if you want the full framework.) Tj
+ET
+BT
+/F1 9 Tf
+36 314 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 303 Td
+0.102 0.102 0.102 rg
+(What cold email format have you seen work best in your world?) Tj
+ET
+BT
+/F1 9 Tf
+36 292 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 281 Td
+0.102 0.102 0.102 rg
+(---) Tj
+ET
+BT
+/F1 9 Tf
+36 270 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 259 Td
+0.102 0.102 0.102 rg
+(### Post 2: Poll-Style Engagement) Tj
+ET
+BT
+/F1 9 Tf
+36 248 Td
+0.102 0.102 0.102 rg
+(Quick poll \(honest answers only\):) Tj
+ET
+BT
+/F1 9 Tf
+36 237 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 226 Td
+0.102 0.102 0.102 rg
+(You just received a cold email. It opens with:) Tj
+ET
+BT
+/F1 9 Tf
+36 215 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 204 Td
+0.102 0.102 0.102 rg
+(Option A: "Hi [Name], our solution helps companies like yours increase revenue by 25%...") Tj
+ET
+BT
+/F1 9 Tf
+36 193 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 182 Td
+0.102 0.102 0.102 rg
+(Option B: "Hi [Name], I noticed you recently hired for sales roles. Most teams struggle with onboarding new hires to their CRM process...") Tj
+ET
+BT
+/F1 9 Tf
+36 171 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 160 Td
+0.102 0.102 0.102 rg
+(Which one are you more likely to respond to?) Tj
+ET
+BT
+/F1 9 Tf
+36 149 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 138 Td
+0.102 0.102 0.102 rg
+(The winner reveals everything about what actually works in sales. [Read the breakdown] → \(link\)) Tj
+ET
+BT
+/F1 9 Tf
+36 127 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 116 Td
+0.102 0.102 0.102 rg
+(---) Tj
+ET
+BT
+/F1 9 Tf
+36 105 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 94 Td
+0.102 0.102 0.102 rg
+(### Post 3: Story-Style Post \(Vulnerable\)) Tj
+ET
+BT
+/F1 9 Tf
+36 83 Td
+0.102 0.102 0.102 rg
+(I used to send "spray and pray" cold emails.) Tj
+ET
+BT
+/F1 9 Tf
+36 72 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 61 Td
+0.102 0.102 0.102 rg
+(Thousands of them. Personalization was adding their name. Subject lines were generic. Opens were 2%.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792]
+   /Contents 16 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> >>
+endobj
+16 0 obj
+<< /Length 5476 >>
+stream
+BT
+/F1 9 Tf
+36 756 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 745 Td
+0.102 0.102 0.102 rg
+(I thought cold email was a numbers game. Send 1,000 emails, get 10 conversations, close 2 deals.) Tj
+ET
+BT
+/F1 9 Tf
+36 734 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 723 Td
+0.102 0.102 0.102 rg
+(I was right about the math. I was wrong about why it wasn't working.) Tj
+ET
+BT
+/F1 9 Tf
+36 712 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 701 Td
+0.102 0.102 0.102 rg
+(My emails weren't failing because I wasn't sending enough. They were failing because I wasn't saying anything worth reading.) Tj
+ET
+BT
+/F1 9 Tf
+36 690 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 679 Td
+0.102 0.102 0.102 rg
+(When I switched to writing emails like I was talking to one person about *their* specific situation, everything changed.) Tj
+ET
+BT
+/F1 9 Tf
+36 668 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 657 Td
+0.102 0.102 0.102 rg
+(Suddenly, my open rate went from 2% to 18%. Meetings went from 2-3 per month to 8-10.) Tj
+ET
+BT
+/F1 9 Tf
+36 646 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 635 Td
+0.102 0.102 0.102 rg
+(Different game entirely.) Tj
+ET
+BT
+/F1 9 Tf
+36 624 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 613 Td
+0.102 0.102 0.102 rg
+(The thing that changed? My opening line. Instead of leading with what I do, I started leading with what I noticed about them.) Tj
+ET
+BT
+/F1 9 Tf
+36 602 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 591 Td
+0.102 0.102 0.102 rg
+(Anyway, I wrote a full breakdown of how to structure cold emails that get responses. Sharing the framework this week on my LinkedIn.) Tj
+ET
+BT
+/F1 9 Tf
+36 580 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 569 Td
+0.102 0.102 0.102 rg
+(Have you had similar shifts in sales strategy that changed everything?) Tj
+ET
+BT
+/F1 9 Tf
+36 558 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 547 Td
+0.102 0.102 0.102 rg
+(---) Tj
+ET
+BT
+/F1 9 Tf
+36 536 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 525 Td
+0.102 0.102 0.102 rg
+(### Post 4: Practical Framework Post) Tj
+ET
+BT
+/F1 9 Tf
+36 514 Td
+0.102 0.102 0.102 rg
+(Cold email breakthrough:) Tj
+ET
+BT
+/F1 9 Tf
+36 503 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 492 Td
+0.102 0.102 0.102 rg
+(Most people structure their email: Intro → Problem → Solution → CTA) Tj
+ET
+BT
+/F1 9 Tf
+36 481 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 470 Td
+0.102 0.102 0.102 rg
+(High-response emails reverse it: Problem → Proof I understand → Solution → CTA) Tj
+ET
+BT
+/F1 9 Tf
+36 459 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 448 Td
+0.102 0.102 0.102 rg
+(This tiny shift gets 3-4x response rates because you've proven credibility *before* asking.) Tj
+ET
+BT
+/F1 9 Tf
+36 437 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 426 Td
+0.102 0.102 0.102 rg
+(Here's the template:) Tj
+ET
+BT
+/F1 9 Tf
+36 415 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 404 Td
+0.102 0.102 0.102 rg
+("Hi [Name], I noticed [specific problem in their company/industry]. Most companies in your space struggle with this because [reason]. I've been helping teams solve it by [brief outcome]. Would it make sense to spend 20 mins talking about your situation?") Tj
+ET
+BT
+/F1 9 Tf
+36 393 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 382 Td
+0.102 0.102 0.102 rg
+(Notice: You address *their* problem first. You prove understanding. Only then do you mention what you do. Then you ask for conversation, not a commitment.) Tj
+ET
+BT
+/F1 9 Tf
+36 371 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 360 Td
+0.102 0.102 0.102 rg
+(This works because you've earned the right to have a conversation.) Tj
+ET
+BT
+/F1 9 Tf
+36 349 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 338 Td
+0.102 0.102 0.102 rg
+(The opposite of cold.) Tj
+ET
+BT
+/F1 9 Tf
+36 327 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 316 Td
+0.102 0.102 0.102 rg
+(---) Tj
+ET
+BT
+/F1 9 Tf
+36 305 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 294 Td
+0.102 0.102 0.102 rg
+(## TWITTER/X REPURPOSING \(5 posts\)) Tj
+ET
+BT
+/F1 9 Tf
+36 283 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 272 Td
+0.102 0.102 0.102 rg
+(### Post 1: Thread \(10 tweets\)) Tj
+ET
+BT
+/F1 9 Tf
+36 261 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 250 Td
+0.102 0.102 0.102 rg
+(1/10) Tj
+ET
+BT
+/F1 9 Tf
+36 239 Td
+0.102 0.102 0.102 rg
+(Most cold emails are written wrong.) Tj
+ET
+BT
+/F1 9 Tf
+36 228 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 217 Td
+0.102 0.102 0.102 rg
+(They start by talking about what you do.) Tj
+ET
+BT
+/F1 9 Tf
+36 206 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 195 Td
+0.102 0.102 0.102 rg
+(They should start by talking about what they're struggling with.) Tj
+ET
+BT
+/F1 9 Tf
+36 184 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 173 Td
+0.102 0.102 0.102 rg
+(I analyzed 100 cold emails. The ones getting responses follow a different formula entirely.) Tj
+ET
+BT
+/F1 9 Tf
+36 162 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 151 Td
+0.102 0.102 0.102 rg
+(Here's what works:) Tj
+ET
+BT
+/F1 9 Tf
+36 140 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 129 Td
+0.102 0.102 0.102 rg
+(2/10) Tj
+ET
+BT
+/F1 9 Tf
+36 118 Td
+0.102 0.102 0.102 rg
+([Email A] - Traditional approach:) Tj
+ET
+BT
+/F1 9 Tf
+36 107 Td
+0.102 0.102 0.102 rg
+("Hi [Name], we help B2B SaaS companies increase email open rates by 30%...") Tj
+ET
+BT
+/F1 9 Tf
+36 96 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 85 Td
+0.102 0.102 0.102 rg
+(This gets ignored.) Tj
+ET
+BT
+/F1 9 Tf
+36 74 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 63 Td
+0.102 0.102 0.102 rg
+([Email B] - Response-generating approach:) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792]
+   /Contents 17 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> >>
+endobj
+17 0 obj
+<< /Length 4996 >>
+stream
+BT
+/F1 9 Tf
+36 756 Td
+0.102 0.102 0.102 rg
+("Hi [Name], I noticed you recently launched a product. Most companies lose 40% of signup momentum in the first week...") Tj
+ET
+BT
+/F1 9 Tf
+36 745 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 734 Td
+0.102 0.102 0.102 rg
+(This gets meetings.) Tj
+ET
+BT
+/F1 9 Tf
+36 723 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 712 Td
+0.102 0.102 0.102 rg
+(Why? Credibility first.) Tj
+ET
+BT
+/F1 9 Tf
+36 701 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 690 Td
+0.102 0.102 0.102 rg
+(3/10) Tj
+ET
+BT
+/F1 9 Tf
+36 679 Td
+0.102 0.102 0.102 rg
+(The psychology: When someone reads [Email A], their brain says "This is a pitch. Delete.") Tj
+ET
+BT
+/F1 9 Tf
+36 668 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 657 Td
+0.102 0.102 0.102 rg
+(When they read [Email B], their brain says "How did they know this about us? They did their homework. Let me read more.") Tj
+ET
+BT
+/F1 9 Tf
+36 646 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 635 Td
+0.102 0.102 0.102 rg
+(Completely different responses.) Tj
+ET
+BT
+/F1 9 Tf
+36 624 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 613 Td
+0.102 0.102 0.102 rg
+(4/10) Tj
+ET
+BT
+/F1 9 Tf
+36 602 Td
+0.102 0.102 0.102 rg
+(The formula for high-response cold emails:) Tj
+ET
+BT
+/F1 9 Tf
+36 591 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 580 Td
+0.102 0.102 0.102 rg
+(1. Lead with a specific observation \(prove you researched them\)) Tj
+ET
+BT
+/F1 9 Tf
+36 569 Td
+0.102 0.102 0.102 rg
+(2. Acknowledge a real problem in their world) Tj
+ET
+BT
+/F1 9 Tf
+36 558 Td
+0.102 0.102 0.102 rg
+(3. Show you understand why it's hard) Tj
+ET
+BT
+/F1 9 Tf
+36 547 Td
+0.102 0.102 0.102 rg
+(4. Briefly mention how you help) Tj
+ET
+BT
+/F1 9 Tf
+36 536 Td
+0.102 0.102 0.102 rg
+(5. Ask for a conversation \(not a sale\)) Tj
+ET
+BT
+/F1 9 Tf
+36 525 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 514 Td
+0.102 0.102 0.102 rg
+(That's it.) Tj
+ET
+BT
+/F1 9 Tf
+36 503 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 492 Td
+0.102 0.102 0.102 rg
+(5/10) Tj
+ET
+BT
+/F1 9 Tf
+36 481 Td
+0.102 0.102 0.102 rg
+(Example:) Tj
+ET
+BT
+/F1 9 Tf
+36 470 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 459 Td
+0.102 0.102 0.102 rg
+("Hi [Name], I noticed your product went live 6 months ago and you're hiring aggressively now.) Tj
+ET
+BT
+/F1 9 Tf
+36 448 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 437 Td
+0.102 0.102 0.102 rg
+(Most scaling teams lose 30% of new hires to poor onboarding—expensive problem.) Tj
+ET
+BT
+/F1 9 Tf
+36 426 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 415 Td
+0.102 0.102 0.102 rg
+(I've helped [Industry] companies fix this in 90 days.) Tj
+ET
+BT
+/F1 9 Tf
+36 404 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 393 Td
+0.102 0.102 0.102 rg
+(Worth 20 mins to see if it applies?") Tj
+ET
+BT
+/F1 9 Tf
+36 382 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 371 Td
+0.102 0.102 0.102 rg
+(Response rate: 23%.) Tj
+ET
+BT
+/F1 9 Tf
+36 360 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 349 Td
+0.102 0.102 0.102 rg
+(6/10) Tj
+ET
+BT
+/F1 9 Tf
+36 338 Td
+0.102 0.102 0.102 rg
+(The hardest part? Step 1—specific observation.) Tj
+ET
+BT
+/F1 9 Tf
+36 327 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 316 Td
+0.102 0.102 0.102 rg
+(You can't copy this and send 500 copies. Each email needs to address something real about *that company*.) Tj
+ET
+BT
+/F1 9 Tf
+36 305 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 294 Td
+0.102 0.102 0.102 rg
+(This sucks. Takes time. But it's why it works.) Tj
+ET
+BT
+/F1 9 Tf
+36 283 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 272 Td
+0.102 0.102 0.102 rg
+(Spray and pray gets 2% response. Thoughtful personalization gets 20%+.) Tj
+ET
+BT
+/F1 9 Tf
+36 261 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 250 Td
+0.102 0.102 0.102 rg
+(7/10) Tj
+ET
+BT
+/F1 9 Tf
+36 239 Td
+0.102 0.102 0.102 rg
+(The mistakes I see:) Tj
+ET
+BT
+/F1 9 Tf
+36 228 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 217 Td
+0.102 0.102 0.102 rg
+(- Leading with your product \(wrong\)) Tj
+ET
+BT
+/F1 9 Tf
+36 206 Td
+0.102 0.102 0.102 rg
+(- Generic personalization \("I've been following your work"\)) Tj
+ET
+BT
+/F1 9 Tf
+36 195 Td
+0.102 0.102 0.102 rg
+(- Long sales pitch \(kill it, ask for conversation\)) Tj
+ET
+BT
+/F1 9 Tf
+36 184 Td
+0.102 0.102 0.102 rg
+(- Multiple CTAs \(pick one\)) Tj
+ET
+BT
+/F1 9 Tf
+36 173 Td
+0.102 0.102 0.102 rg
+(- Trying to close in the first email \(crazy\)) Tj
+ET
+BT
+/F1 9 Tf
+36 162 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 151 Td
+0.102 0.102 0.102 rg
+(One conversation = one chance to sell.) Tj
+ET
+BT
+/F1 9 Tf
+36 140 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 129 Td
+0.102 0.102 0.102 rg
+(Don't waste it with a pitch.) Tj
+ET
+BT
+/F1 9 Tf
+36 118 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 107 Td
+0.102 0.102 0.102 rg
+(8/10) Tj
+ET
+BT
+/F1 9 Tf
+36 96 Td
+0.102 0.102 0.102 rg
+(The math:) Tj
+ET
+BT
+/F1 9 Tf
+36 85 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 74 Td
+0.102 0.102 0.102 rg
+(500 spray-and-pray emails = 10 conversations = 1-2 deals) Tj
+ET
+BT
+/F1 9 Tf
+36 63 Td
+0.102 0.102 0.102 rg
+(50 thoughtful emails = 10 conversations = 4-5 deals) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792]
+   /Contents 18 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> >>
+endobj
+18 0 obj
+<< /Length 4621 >>
+stream
+BT
+/F1 9 Tf
+36 756 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 745 Td
+0.102 0.102 0.102 rg
+(Same conversation count. Difference? Quality.) Tj
+ET
+BT
+/F1 9 Tf
+36 734 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 723 Td
+0.102 0.102 0.102 rg
+(Fewer emails. Better research. Higher close rate.) Tj
+ET
+BT
+/F1 9 Tf
+36 712 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 701 Td
+0.102 0.102 0.102 rg
+(9/10) Tj
+ET
+BT
+/F1 9 Tf
+36 690 Td
+0.102 0.102 0.102 rg
+(How to research efficiently:) Tj
+ET
+BT
+/F1 9 Tf
+36 679 Td
+0.102 0.102 0.102 rg
+(- Spend 5 mins on their LinkedIn) Tj
+ET
+BT
+/F1 9 Tf
+36 668 Td
+0.102 0.102 0.102 rg
+(- Look at recent hires or announcements) Tj
+ET
+BT
+/F1 9 Tf
+36 657 Td
+0.102 0.102 0.102 rg
+(- Check their website for products/features) Tj
+ET
+BT
+/F1 9 Tf
+36 646 Td
+0.102 0.102 0.102 rg
+(- Notice *what's changed*) Tj
+ET
+BT
+/F1 9 Tf
+36 635 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 624 Td
+0.102 0.102 0.102 rg
+(That's your opening. "I noticed you...") Tj
+ET
+BT
+/F1 9 Tf
+36 613 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 602 Td
+0.102 0.102 0.102 rg
+(10/10) Tj
+ET
+BT
+/F1 9 Tf
+36 591 Td
+0.102 0.102 0.102 rg
+(Cold email is really just conversation starting.) Tj
+ET
+BT
+/F1 9 Tf
+36 580 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 569 Td
+0.102 0.102 0.102 rg
+(Write like you're talking to one person about their specific situation.) Tj
+ET
+BT
+/F1 9 Tf
+36 558 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 547 Td
+0.102 0.102 0.102 rg
+(Suddenly, it's not cold anymore.) Tj
+ET
+BT
+/F1 9 Tf
+36 536 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 525 Td
+0.102 0.102 0.102 rg
+(---) Tj
+ET
+BT
+/F1 9 Tf
+36 514 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 503 Td
+0.102 0.102 0.102 rg
+(### Post 2: Hot Take Post) Tj
+ET
+BT
+/F1 9 Tf
+36 492 Td
+0.102 0.102 0.102 rg
+(Hot take: Cold email is dead if you lead with a pitch.) Tj
+ET
+BT
+/F1 9 Tf
+36 481 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 470 Td
+0.102 0.102 0.102 rg
+(Cold email is alive if you lead with an observation.) Tj
+ET
+BT
+/F1 9 Tf
+36 459 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 448 Td
+0.102 0.102 0.102 rg
+(Nobody cares what you sell in email 1.) Tj
+ET
+BT
+/F1 9 Tf
+36 437 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 426 Td
+0.102 0.102 0.102 rg
+(They care that you understand their problem.) Tj
+ET
+BT
+/F1 9 Tf
+36 415 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 404 Td
+0.102 0.102 0.102 rg
+(---) Tj
+ET
+BT
+/F1 9 Tf
+36 393 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 382 Td
+0.102 0.102 0.102 rg
+(### Post 3: Quick Tip Post) Tj
+ET
+BT
+/F1 9 Tf
+36 371 Td
+0.102 0.102 0.102 rg
+(Cold email tip: Replace "I help companies..." with "I noticed you...") Tj
+ET
+BT
+/F1 9 Tf
+36 360 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 349 Td
+0.102 0.102 0.102 rg
+(Response rate difference: 2% vs. 18%.) Tj
+ET
+BT
+/F1 9 Tf
+36 338 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 327 Td
+0.102 0.102 0.102 rg
+(One line. 10x impact.) Tj
+ET
+BT
+/F1 9 Tf
+36 316 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 305 Td
+0.102 0.102 0.102 rg
+(---) Tj
+ET
+BT
+/F1 9 Tf
+36 294 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 283 Td
+0.102 0.102 0.102 rg
+(### Post 4: Practical One-Liner) Tj
+ET
+BT
+/F1 9 Tf
+36 272 Td
+0.102 0.102 0.102 rg
+(The best subject lines for cold emails don't ask for attention.) Tj
+ET
+BT
+/F1 9 Tf
+36 261 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 250 Td
+0.102 0.102 0.102 rg
+(They give you a reason to pay attention.) Tj
+ET
+BT
+/F1 9 Tf
+36 239 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 228 Td
+0.102 0.102 0.102 rg
+("Quick question about your lead generation process" gets opened.) Tj
+ET
+BT
+/F1 9 Tf
+36 217 Td
+0.102 0.102 0.102 rg
+("Check out our solution" gets deleted.) Tj
+ET
+BT
+/F1 9 Tf
+36 206 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 195 Td
+0.102 0.102 0.102 rg
+(---) Tj
+ET
+BT
+/F1 9 Tf
+36 184 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 173 Td
+0.102 0.102 0.102 rg
+(### Post 5: Contrarian Take) Tj
+ET
+BT
+/F1 9 Tf
+36 162 Td
+0.102 0.102 0.102 rg
+(Cold email templates are killing your response rates.) Tj
+ET
+BT
+/F1 9 Tf
+36 151 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 140 Td
+0.102 0.102 0.102 rg
+(Every competitor is using the same template.) Tj
+ET
+BT
+/F1 9 Tf
+36 129 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 118 Td
+0.102 0.102 0.102 rg
+(Every decision-maker has read it 50 times.) Tj
+ET
+BT
+/F1 9 Tf
+36 107 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 96 Td
+0.102 0.102 0.102 rg
+(Write like a human. Different formula. Better results.) Tj
+ET
+BT
+/F1 9 Tf
+36 85 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 74 Td
+0.102 0.102 0.102 rg
+(---) Tj
+ET
+BT
+/F1 9 Tf
+36 63 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792]
+   /Contents 19 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> >>
+endobj
+19 0 obj
+<< /Length 5267 >>
+stream
+BT
+/F1 9 Tf
+36 756 Td
+0.102 0.102 0.102 rg
+(## INSTAGRAM REPURPOSING \(3 posts\)) Tj
+ET
+BT
+/F1 9 Tf
+36 745 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 734 Td
+0.102 0.102 0.102 rg
+(### Post 1: Carousel Post Caption) Tj
+ET
+BT
+/F1 9 Tf
+36 723 Td
+0.102 0.102 0.102 rg
+(Swipe through this for a cold email framework that actually works.) Tj
+ET
+BT
+/F1 9 Tf
+36 712 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 701 Td
+0.102 0.102 0.102 rg
+(Most people write emails that start with "Here's what I do.") Tj
+ET
+BT
+/F1 9 Tf
+36 690 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 679 Td
+0.102 0.102 0.102 rg
+(Then they wonder why nobody responds.) Tj
+ET
+BT
+/F1 9 Tf
+36 668 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 657 Td
+0.102 0.102 0.102 rg
+(Here's the issue: You've told them about *your* business before proving you understand *theirs*.) Tj
+ET
+BT
+/F1 9 Tf
+36 646 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 635 Td
+0.102 0.102 0.102 rg
+(Try this instead:) Tj
+ET
+BT
+/F1 9 Tf
+36 624 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 613 Td
+0.102 0.102 0.102 rg
+(Slide 1: Lead with an observation \(prove you researched\)) Tj
+ET
+BT
+/F1 9 Tf
+36 602 Td
+0.102 0.102 0.102 rg
+(Slide 2: Name the problem \(show you get it\)) Tj
+ET
+BT
+/F1 9 Tf
+36 591 Td
+0.102 0.102 0.102 rg
+(Slide 3: Why that problem matters \(show you understand impact\)) Tj
+ET
+BT
+/F1 9 Tf
+36 580 Td
+0.102 0.102 0.102 rg
+(Slide 4: Brief solution mention \(now you've earned it\)) Tj
+ET
+BT
+/F1 9 Tf
+36 569 Td
+0.102 0.102 0.102 rg
+(Slide 5: Clear ask \(conversation only, no closing pitch\)) Tj
+ET
+BT
+/F1 9 Tf
+36 558 Td
+0.102 0.102 0.102 rg
+(Slide 6: Real example \(prove this works\)) Tj
+ET
+BT
+/F1 9 Tf
+36 547 Td
+0.102 0.102 0.102 rg
+(Slide 7: Common mistake \(what NOT to do\)) Tj
+ET
+BT
+/F1 9 Tf
+36 536 Td
+0.102 0.102 0.102 rg
+(Slide 8: Your result) Tj
+ET
+BT
+/F1 9 Tf
+36 525 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 514 Td
+0.102 0.102 0.102 rg
+(This is how top salespeople structure outreach.) Tj
+ET
+BT
+/F1 9 Tf
+36 503 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 492 Td
+0.102 0.102 0.102 rg
+(Save this. Use on your next campaign. Watch your response rate shift from "meh" to "actually getting meetings.") Tj
+ET
+BT
+/F1 9 Tf
+36 481 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 470 Td
+0.102 0.102 0.102 rg
+(One detail: This only works if the observation is real. You can't fake research. Spend 5 mins on LinkedIn looking for something that actually changed at their company.) Tj
+ET
+BT
+/F1 9 Tf
+36 459 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 448 Td
+0.102 0.102 0.102 rg
+(That's your opening.) Tj
+ET
+BT
+/F1 9 Tf
+36 437 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 426 Td
+0.102 0.102 0.102 rg
+(Drop a comment: Have you gotten a cold email that actually made you want to respond? What made it different?) Tj
+ET
+BT
+/F1 9 Tf
+36 415 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 404 Td
+0.102 0.102 0.102 rg
+(---) Tj
+ET
+BT
+/F1 9 Tf
+36 393 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 382 Td
+0.102 0.102 0.102 rg
+(### Post 2: Quote Graphic Caption) Tj
+ET
+BT
+/F1 9 Tf
+36 371 Td
+0.102 0.102 0.102 rg
+([Image: Quote graphic of main insight]) Tj
+ET
+BT
+/F1 9 Tf
+36 360 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 349 Td
+0.102 0.102 0.102 rg
+("Most cold emails fail because they lead with the product pitch, not the person's problem.") Tj
+ET
+BT
+/F1 9 Tf
+36 338 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 327 Td
+0.102 0.102 0.102 rg
+(This one insight changed my sales game completely.) Tj
+ET
+BT
+/F1 9 Tf
+36 316 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 305 Td
+0.102 0.102 0.102 rg
+(When I switched from:) Tj
+ET
+BT
+/F1 9 Tf
+36 294 Td
+0.102 0.102 0.102 rg
+("We help companies improve email open rates") Tj
+ET
+BT
+/F1 9 Tf
+36 283 Td
+0.102 0.102 0.102 rg
+(→ "I noticed you're losing leads in the onboarding phase") Tj
+ET
+BT
+/F1 9 Tf
+36 272 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 261 Td
+0.102 0.102 0.102 rg
+(My response rate went from 2% to 18%.) Tj
+ET
+BT
+/F1 9 Tf
+36 250 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 239 Td
+0.102 0.102 0.102 rg
+(Same product. Different opening.) Tj
+ET
+BT
+/F1 9 Tf
+36 228 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 217 Td
+0.102 0.102 0.102 rg
+(It's psychology. You earn the right to pitch by proving you understand their world first.) Tj
+ET
+BT
+/F1 9 Tf
+36 206 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 195 Td
+0.102 0.102 0.102 rg
+(If you're sending cold emails, try this on your next 10 outreach attempts.) Tj
+ET
+BT
+/F1 9 Tf
+36 184 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 173 Td
+0.102 0.102 0.102 rg
+(Tag someone who needs this. 👇) Tj
+ET
+BT
+/F1 9 Tf
+36 162 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 151 Td
+0.102 0.102 0.102 rg
+(---) Tj
+ET
+BT
+/F1 9 Tf
+36 140 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 129 Td
+0.102 0.102 0.102 rg
+(### Post 3: Educational Caption) Tj
+ET
+BT
+/F1 9 Tf
+36 118 Td
+0.102 0.102 0.102 rg
+(Here's why your cold emails aren't working:) Tj
+ET
+BT
+/F1 9 Tf
+36 107 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 96 Td
+0.102 0.102 0.102 rg
+(You're leading with your product instead of their problem.) Tj
+ET
+BT
+/F1 9 Tf
+36 85 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 74 Td
+0.102 0.102 0.102 rg
+(You don't have to be pushy.) Tj
+ET
+BT
+/F1 9 Tf
+36 63 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792]
+   /Contents 20 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> >>
+endobj
+20 0 obj
+<< /Length 5587 >>
+stream
+BT
+/F1 9 Tf
+36 756 Td
+0.102 0.102 0.102 rg
+(You just have to be specific.) Tj
+ET
+BT
+/F1 9 Tf
+36 745 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 734 Td
+0.102 0.102 0.102 rg
+(Instead of: "Hi [Name], we help SaaS companies...") Tj
+ET
+BT
+/F1 9 Tf
+36 723 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 712 Td
+0.102 0.102 0.102 rg
+(Try: "Hi [Name], I noticed you just launched your product. Most companies in your space lose 40% of signup momentum in the first week.") Tj
+ET
+BT
+/F1 9 Tf
+36 701 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 690 Td
+0.102 0.102 0.102 rg
+(Specific > Generic. Always.) Tj
+ET
+BT
+/F1 9 Tf
+36 679 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 668 Td
+0.102 0.102 0.102 rg
+(---) Tj
+ET
+BT
+/F1 9 Tf
+36 657 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 646 Td
+0.102 0.102 0.102 rg
+(## TIKTOK REPURPOSING \(2 scripts\)) Tj
+ET
+BT
+/F1 9 Tf
+36 635 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 624 Td
+0.102 0.102 0.102 rg
+(### Post 1: 30-Second Hook Video) Tj
+ET
+BT
+/F1 9 Tf
+36 613 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 602 Td
+0.102 0.102 0.102 rg
+([0:00-0:02] Hook) Tj
+ET
+BT
+/F1 9 Tf
+36 591 Td
+0.102 0.102 0.102 rg
+(TEXT: "Why your cold email isn't working") Tj
+ET
+BT
+/F1 9 Tf
+36 580 Td
+0.102 0.102 0.102 rg
+(VISUAL: Close-up of opening generic cold email) Tj
+ET
+BT
+/F1 9 Tf
+36 569 Td
+0.102 0.102 0.102 rg
+(SPOKEN: "Your cold email starts with this...") Tj
+ET
+BT
+/F1 9 Tf
+36 558 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 547 Td
+0.102 0.102 0.102 rg
+([0:02-0:05] Problem) Tj
+ET
+BT
+/F1 9 Tf
+36 536 Td
+0.102 0.102 0.102 rg
+(TEXT: "❌ Leads with product pitch") Tj
+ET
+BT
+/F1 9 Tf
+36 525 Td
+0.102 0.102 0.102 rg
+(VISUAL: Highlighting the generic first line) Tj
+ET
+BT
+/F1 9 Tf
+36 514 Td
+0.102 0.102 0.102 rg
+(SPOKEN: "And immediately gets deleted.") Tj
+ET
+BT
+/F1 9 Tf
+36 503 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 492 Td
+0.102 0.102 0.102 rg
+([0:05-0:10] Solution) Tj
+ET
+BT
+/F1 9 Tf
+36 481 Td
+0.102 0.102 0.102 rg
+(TEXT: "✅ Try this instead") Tj
+ET
+BT
+/F1 9 Tf
+36 470 Td
+0.102 0.102 0.102 rg
+(VISUAL: Show better cold email opening) Tj
+ET
+BT
+/F1 9 Tf
+36 459 Td
+0.102 0.102 0.102 rg
+(SPOKEN: "Lead with an observation about *their* world. Now you've earned their attention.") Tj
+ET
+BT
+/F1 9 Tf
+36 448 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 437 Td
+0.102 0.102 0.102 rg
+([0:10-0:15] Example) Tj
+ET
+BT
+/F1 9 Tf
+36 426 Td
+0.102 0.102 0.102 rg
+(TEXT: "Wrong: 'We help companies increase open rates'") Tj
+ET
+BT
+/F1 9 Tf
+36 415 Td
+0.102 0.102 0.102 rg
+(TEXT: "Right: 'I noticed you just launched. Most teams lose 40% of signup momentum in week 1'") Tj
+ET
+BT
+/F1 9 Tf
+36 404 Td
+0.102 0.102 0.102 rg
+(SPOKEN: "See the difference?") Tj
+ET
+BT
+/F1 9 Tf
+36 393 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 382 Td
+0.102 0.102 0.102 rg
+([0:15-0:20] Result) Tj
+ET
+BT
+/F1 9 Tf
+36 371 Td
+0.102 0.102 0.102 rg
+(TEXT: "Generic: 2% response | Specific: 18% response") Tj
+ET
+BT
+/F1 9 Tf
+36 360 Td
+0.102 0.102 0.102 rg
+(VISUAL: Comparison side-by-side) Tj
+ET
+BT
+/F1 9 Tf
+36 349 Td
+0.102 0.102 0.102 rg
+(SPOKEN: "8x better. One change.") Tj
+ET
+BT
+/F1 9 Tf
+36 338 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 327 Td
+0.102 0.102 0.102 rg
+([0:20-0:30] CTA) Tj
+ET
+BT
+/F1 9 Tf
+36 316 Td
+0.102 0.102 0.102 rg
+(TEXT: "Try this on your next 5 emails. Watch your response rate change.") Tj
+ET
+BT
+/F1 9 Tf
+36 305 Td
+0.102 0.102 0.102 rg
+(VISUAL: You looking at camera) Tj
+ET
+BT
+/F1 9 Tf
+36 294 Td
+0.102 0.102 0.102 rg
+(SPOKEN: "Save this. You'll need it.") Tj
+ET
+BT
+/F1 9 Tf
+36 283 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 272 Td
+0.102 0.102 0.102 rg
+(---) Tj
+ET
+BT
+/F1 9 Tf
+36 261 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 250 Td
+0.102 0.102 0.102 rg
+(### Post 2: Talking-Head Script \(60 seconds\)) Tj
+ET
+BT
+/F1 9 Tf
+36 239 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 228 Td
+0.102 0.102 0.102 rg
+([0:00-0:05] Hook) Tj
+ET
+BT
+/F1 9 Tf
+36 217 Td
+0.102 0.102 0.102 rg
+("I used to send 500 cold emails a month and get 10 responses. Then I changed one thing and suddenly I'm getting 100 responses from 50 emails. Here's what I changed:") Tj
+ET
+BT
+/F1 9 Tf
+36 206 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 195 Td
+0.102 0.102 0.102 rg
+([0:05-0:15] Problem) Tj
+ET
+BT
+/F1 9 Tf
+36 184 Td
+0.102 0.102 0.102 rg
+("Most cold emails lead with what you do. 'We help companies...' Here's the problem with that: The reader deletes it before finishing your sentence. They don't care about you yet.") Tj
+ET
+BT
+/F1 9 Tf
+36 173 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 162 Td
+0.102 0.102 0.102 rg
+([0:15-0:35] Solution) Tj
+ET
+BT
+/F1 9 Tf
+36 151 Td
+0.102 0.102 0.102 rg
+("Instead, start with an observation about them. 'I noticed you just hired your first sales person. Most teams struggle with onboarding. I've helped X companies solve it.' Now you've proven you did research. You understand their world. You've earned the right to the conversation.") Tj
+ET
+BT
+/F1 9 Tf
+36 140 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 129 Td
+0.102 0.102 0.102 rg
+([0:35-0:50] Result) Tj
+ET
+BT
+/F1 9 Tf
+36 118 Td
+0.102 0.102 0.102 rg
+("The difference? Generic pitch gets 2% response. Specific observation gets 18% response. Same email length. Same person sending it. Different opening.") Tj
+ET
+BT
+/F1 9 Tf
+36 107 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 96 Td
+0.102 0.102 0.102 rg
+([0:50-0:60] CTA) Tj
+ET
+BT
+/F1 9 Tf
+36 85 Td
+0.102 0.102 0.102 rg
+("Try this tomorrow. You'll see the difference immediately. Drop me a comment if it works for you.") Tj
+ET
+BT
+/F1 9 Tf
+36 74 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 63 Td
+0.102 0.102 0.102 rg
+(---) Tj
+ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792]
+   /Contents 21 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> >>
+endobj
+21 0 obj
+<< /Length 5002 >>
+stream
+BT
+/F1 9 Tf
+36 756 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 745 Td
+0.102 0.102 0.102 rg
+(## EMAIL/NEWSLETTER REPURPOSING \(3 variations\)) Tj
+ET
+BT
+/F1 9 Tf
+36 734 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 723 Td
+0.102 0.102 0.102 rg
+(### Email 1: Blog Promotion with Unique Insight) Tj
+ET
+BT
+/F1 9 Tf
+36 712 Td
+0.102 0.102 0.102 rg
+(Subject: I analyzed 100 cold emails \(here's why yours aren't working\)) Tj
+ET
+BT
+/F1 9 Tf
+36 701 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 690 Td
+0.102 0.102 0.102 rg
+(---) Tj
+ET
+BT
+/F1 9 Tf
+36 679 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 668 Td
+0.102 0.102 0.102 rg
+(Hi [First Name],) Tj
+ET
+BT
+/F1 9 Tf
+36 657 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 646 Td
+0.102 0.102 0.102 rg
+(I spent a weekend analyzing 100 cold emails.) Tj
+ET
+BT
+/F1 9 Tf
+36 635 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 624 Td
+0.102 0.102 0.102 rg
+(The ones getting responses had something obvious in common. The ones getting ignored had something else in common.) Tj
+ET
+BT
+/F1 9 Tf
+36 613 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 602 Td
+0.102 0.102 0.102 rg
+(The difference? One word.) Tj
+ET
+BT
+/F1 9 Tf
+36 591 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 580 Td
+0.102 0.102 0.102 rg
+(The successful emails started with "I noticed" \(about the prospect\).) Tj
+ET
+BT
+/F1 9 Tf
+36 569 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 558 Td
+0.102 0.102 0.102 rg
+(The ignored ones started with "We help" \(about the sender\).) Tj
+ET
+BT
+/F1 9 Tf
+36 547 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 536 Td
+0.102 0.102 0.102 rg
+(Completely different response rates.) Tj
+ET
+BT
+/F1 9 Tf
+36 525 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 514 Td
+0.102 0.102 0.102 rg
+(It turns out psychology is powerful in sales. Who knew?) Tj
+ET
+BT
+/F1 9 Tf
+36 503 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 492 Td
+0.102 0.102 0.102 rg
+(I wrote a full breakdown of what makes a cold email actually get responses—the framework, the mistakes people make, the exact template that's working now.) Tj
+ET
+BT
+/F1 9 Tf
+36 481 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 470 Td
+0.102 0.102 0.102 rg
+([Read the full article]) Tj
+ET
+BT
+/F1 9 Tf
+36 459 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 448 Td
+0.102 0.102 0.102 rg
+(The biggest insight: Cold email isn't actually cold. It just *feels* cold when you lead with a pitch. When you lead with an observation about them, it's warm immediately.) Tj
+ET
+BT
+/F1 9 Tf
+36 437 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 426 Td
+0.102 0.102 0.102 rg
+([Your name]) Tj
+ET
+BT
+/F1 9 Tf
+36 415 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 404 Td
+0.102 0.102 0.102 rg
+(---) Tj
+ET
+BT
+/F1 9 Tf
+36 393 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 382 Td
+0.102 0.102 0.102 rg
+(### Email 2: Data-Focused Email) Tj
+ET
+BT
+/F1 9 Tf
+36 371 Td
+0.102 0.102 0.102 rg
+(Subject: Why 2% of cold emails get responses \(and how to hit 18%\)) Tj
+ET
+BT
+/F1 9 Tf
+36 360 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 349 Td
+0.102 0.102 0.102 rg
+(---) Tj
+ET
+BT
+/F1 9 Tf
+36 338 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 327 Td
+0.102 0.102 0.102 rg
+(Hi [First Name],) Tj
+ET
+BT
+/F1 9 Tf
+36 316 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 305 Td
+0.102 0.102 0.102 rg
+(Quick stat I can't stop thinking about:) Tj
+ET
+BT
+/F1 9 Tf
+36 294 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 283 Td
+0.102 0.102 0.102 rg
+(Cold emails that lead with a product pitch get 2% response rate on average.) Tj
+ET
+BT
+/F1 9 Tf
+36 272 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 261 Td
+0.102 0.102 0.102 rg
+(Cold emails that lead with a specific observation get 18% response rate.) Tj
+ET
+BT
+/F1 9 Tf
+36 250 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 239 Td
+0.102 0.102 0.102 rg
+(8x difference. One variable: The opening line.) Tj
+ET
+BT
+/F1 9 Tf
+36 228 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 217 Td
+0.102 0.102 0.102 rg
+(The difference between "We help companies improve email..." and "I noticed you recently hired for sales roles...") Tj
+ET
+BT
+/F1 9 Tf
+36 206 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 195 Td
+0.102 0.102 0.102 rg
+(I broke down exactly how to structure these observations in a detailed guide I just published.) Tj
+ET
+BT
+/F1 9 Tf
+36 184 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 173 Td
+0.102 0.102 0.102 rg
+([Full article here]) Tj
+ET
+BT
+/F1 9 Tf
+36 162 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 151 Td
+0.102 0.102 0.102 rg
+(It's not complicated. It's just specific.) Tj
+ET
+BT
+/F1 9 Tf
+36 140 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 129 Td
+0.102 0.102 0.102 rg
+([Your name]) Tj
+ET
+BT
+/F1 9 Tf
+36 118 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 107 Td
+0.102 0.102 0.102 rg
+(---) Tj
+ET
+BT
+/F1 9 Tf
+36 96 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 85 Td
+0.102 0.102 0.102 rg
+(### Email 3: Objection-Addressing Email) Tj
+ET
+BT
+/F1 9 Tf
+36 74 Td
+0.102 0.102 0.102 rg
+(Subject: "But I don't have time to personalize 500 emails") Tj
+ET
+BT
+/F1 9 Tf
+36 63 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792]
+   /Contents 22 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> >>
+endobj
+22 0 obj
+<< /Length 4872 >>
+stream
+BT
+/F1 9 Tf
+36 756 Td
+0.102 0.102 0.102 rg
+(---) Tj
+ET
+BT
+/F1 9 Tf
+36 745 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 734 Td
+0.102 0.102 0.102 rg
+(Hi [First Name],) Tj
+ET
+BT
+/F1 9 Tf
+36 723 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 712 Td
+0.102 0.102 0.102 rg
+(The most common objection I hear: "That cold email framework sounds good, but I don't have time to personalize every email.") Tj
+ET
+BT
+/F1 9 Tf
+36 701 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 690 Td
+0.102 0.102 0.102 rg
+(Fair point.) Tj
+ET
+BT
+/F1 9 Tf
+36 679 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 668 Td
+0.102 0.102 0.102 rg
+(Here's the thing though: You don't need to send 500 personalized emails.) Tj
+ET
+BT
+/F1 9 Tf
+36 657 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 646 Td
+0.102 0.102 0.102 rg
+(You need to send 50.) Tj
+ET
+BT
+/F1 9 Tf
+36 635 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 624 Td
+0.102 0.102 0.102 rg
+(500 generic emails with 2% response = 10 conversations) Tj
+ET
+BT
+/F1 9 Tf
+36 613 Td
+0.102 0.102 0.102 rg
+(50 personalized emails with 18% response = 9 conversations) Tj
+ET
+BT
+/F1 9 Tf
+36 602 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 591 Td
+0.102 0.102 0.102 rg
+(Same result. 90% less time. Higher quality conversations.) Tj
+ET
+BT
+/F1 9 Tf
+36 580 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 569 Td
+0.102 0.102 0.102 rg
+(I wrote a guide on how to balance speed and personalization. Turns out you can do research efficiently and still hit high response rates.) Tj
+ET
+BT
+/F1 9 Tf
+36 558 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 547 Td
+0.102 0.102 0.102 rg
+([Read how]) Tj
+ET
+BT
+/F1 9 Tf
+36 536 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 525 Td
+0.102 0.102 0.102 rg
+(The math works out. Fewer, better emails beat more, generic ones.) Tj
+ET
+BT
+/F1 9 Tf
+36 514 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 503 Td
+0.102 0.102 0.102 rg
+([Your name]) Tj
+ET
+BT
+/F1 9 Tf
+36 492 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 481 Td
+0.102 0.102 0.102 rg
+(---) Tj
+ET
+BT
+/F1 9 Tf
+36 470 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 459 Td
+0.102 0.102 0.102 rg
+(## REPURPOSING SUMMARY) Tj
+ET
+BT
+/F1 9 Tf
+36 448 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 437 Td
+0.102 0.102 0.102 rg
+(**Total posts generated: 19**) Tj
+ET
+BT
+/F1 9 Tf
+36 426 Td
+0.102 0.102 0.102 rg
+(- LinkedIn: 4 posts) Tj
+ET
+BT
+/F1 9 Tf
+36 415 Td
+0.102 0.102 0.102 rg
+(- Twitter/X: 5 posts) Tj
+ET
+BT
+/F1 9 Tf
+36 404 Td
+0.102 0.102 0.102 rg
+(- Instagram: 3 posts \(plus graphics\)) Tj
+ET
+BT
+/F1 9 Tf
+36 393 Td
+0.102 0.102 0.102 rg
+(- TikTok: 2 video scripts) Tj
+ET
+BT
+/F1 9 Tf
+36 382 Td
+0.102 0.102 0.102 rg
+(- Email: 3 versions) Tj
+ET
+BT
+/F1 9 Tf
+36 371 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 360 Td
+0.102 0.102 0.102 rg
+(**Best scheduling approach:**) Tj
+ET
+BT
+/F1 9 Tf
+36 349 Td
+0.102 0.102 0.102 rg
+(- Spread over 3-4 weeks \(don't flood\)) Tj
+ET
+BT
+/F1 9 Tf
+36 338 Td
+0.102 0.102 0.102 rg
+(- LinkedIn posts: 1 per week) Tj
+ET
+BT
+/F1 9 Tf
+36 327 Td
+0.102 0.102 0.102 rg
+(- Twitter: 1-2 per week \(spread thread over 3 days\)) Tj
+ET
+BT
+/F1 9 Tf
+36 316 Td
+0.102 0.102 0.102 rg
+(- Instagram: 1 every 10 days) Tj
+ET
+BT
+/F1 9 Tf
+36 305 Td
+0.102 0.102 0.102 rg
+(- TikTok: Post 1x per week) Tj
+ET
+BT
+/F1 9 Tf
+36 294 Td
+0.102 0.102 0.102 rg
+(- Email: Send 1 per week to list) Tj
+ET
+BT
+/F1 9 Tf
+36 283 Td
+0.102 0.102 0.102 rg
+() Tj
+ET
+BT
+/F1 9 Tf
+36 272 Td
+0.102 0.102 0.102 rg
+(This single 2,200-word blog post now has 19+ pieces of content. That's the power of repurposing.) Tj
+ET
+BT
+/F2 16 Tf
+36 247 Td
+0.176 0.176 0.176 rg
+(Additional Use Cases & ROI Examples) Tj
+ET
+BT
+/F2 12 Tf
+36 217 Td
+0.251 0.251 0.251 rg
+(Example 2: Case Study Repurposing) Tj
+ET
+BT
+/F1 11 Tf
+36 199 Td
+0.200 0.200 0.200 rg
+(**Blog Post:** "How we 3x'd revenue in 12 months: The complete breakdown") Tj
+ET
+BT
+/F1 11 Tf
+36 186 Td
+0.200 0.200 0.200 rg
+(**Length:** 3,500 words **Repurposing Approach:** - LinkedIn: 5 posts) Tj
+ET
+BT
+/F1 11 Tf
+36 173 Td
+0.200 0.200 0.200 rg
+(\(metrics, before/after, specific tactics, team story, CTA to full case) Tj
+ET
+BT
+/F1 11 Tf
+36 160 Td
+0.200 0.200 0.200 rg
+(study\) - Twitter: 3-post thread \(high-level numbers\) + 4 standalone tweets) Tj
+ET
+BT
+/F1 11 Tf
+36 147 Td
+0.200 0.200 0.200 rg
+(\(individual lessons\) - Email: 2-3 variation emails to list \(shortened) Tj
+ET
+BT
+/F1 11 Tf
+36 134 Td
+0.200 0.200 0.200 rg
+(version, data-focused version, storytelling version\) - Landing page: 1) Tj
+ET
+BT
+/F1 11 Tf
+36 121 Td
+0.200 0.200 0.200 rg
+(downloadable PDF case study - Webinar script: 30-minute breakdown **ROI:**) Tj
+ET
+BT
+/F1 11 Tf
+36 108 Td
+0.200 0.200 0.200 rg
+(One blog post becomes 12+ distribution channels generating inbound + SEO) Tj
+ET
+BT
+/F2 12 Tf
+36 85 Td
+0.251 0.251 0.251 rg
+(Example 3: How-To Article Repurposing) Tj
+ET
+BT
+/F1 11 Tf
+36 67 Td
+0.200 0.200 0.200 rg
+(**Blog Post:** "5-step framework for writing email copy that converts") Tj
+ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792]
+   /Contents 23 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> >>
+endobj
+23 0 obj
+<< /Length 4632 >>
+stream
+BT
+/F1 11 Tf
+36 756 Td
+0.200 0.200 0.200 rg
+(**Length:** 2,000 words **Repurposing Approach:** - TikTok/Reels: 5 videos) Tj
+ET
+BT
+/F1 11 Tf
+36 743 Td
+0.200 0.200 0.200 rg
+(\(1 per step\) - Instagram Carousel: 1 \(teaching all 5 steps in visual) Tj
+ET
+BT
+/F1 11 Tf
+36 730 Td
+0.200 0.200 0.200 rg
+(format\) - LinkedIn: 2-3 posts \(framework overview, common mistakes,) Tj
+ET
+BT
+/F1 11 Tf
+36 717 Td
+0.200 0.200 0.200 rg
+(results\) - Twitter: 1 thread breaking down all 5 steps + 3 standalone tips) Tj
+ET
+BT
+/F1 11 Tf
+36 704 Td
+0.200 0.200 0.200 rg
+(- Newsletter: 1 email with full framework - Lead magnet: Free template or) Tj
+ET
+BT
+/F1 11 Tf
+36 691 Td
+0.200 0.200 0.200 rg
+(checklist **ROI:** 12+ pieces from 1 write; multiplies reach and engagement) Tj
+ET
+BT
+/F1 11 Tf
+36 678 Td
+0.200 0.200 0.200 rg
+(exponentially ---) Tj
+ET
+BT
+/F2 16 Tf
+36 653 Td
+0.176 0.176 0.176 rg
+(Advanced Customization Section) Tj
+ET
+BT
+/F2 12 Tf
+36 623 Td
+0.251 0.251 0.251 rg
+(Variation 1: Platform Prioritization \(Tier the Repurposing\)) Tj
+ET
+BT
+/F1 11 Tf
+36 605 Td
+0.200 0.200 0.200 rg
+(- **Tier 1 \(All blogs\):** LinkedIn + Twitter + Email \(highest-ROI channels\)) Tj
+ET
+BT
+/F1 11 Tf
+36 592 Td
+0.200 0.200 0.200 rg
+(- **Tier 2 \(Optional\):** Instagram + TikTok \(if you have visual design) Tj
+ET
+BT
+/F1 11 Tf
+36 579 Td
+0.200 0.200 0.200 rg
+(capacity\) - **Tier 3 \(Nice-to-have\):** Reddit, Quora, Substack \(niche) Tj
+ET
+BT
+/F1 11 Tf
+36 566 Td
+0.200 0.200 0.200 rg
+(communities\) Don't force all platforms if you can't sustain them. Do 3-4) Tj
+ET
+BT
+/F1 11 Tf
+36 553 Td
+0.200 0.200 0.200 rg
+(platforms really well vs. 7 platforms poorly.) Tj
+ET
+BT
+/F2 12 Tf
+36 530 Td
+0.251 0.251 0.251 rg
+(Variation 2: Seasonal Repurposing) Tj
+ET
+BT
+/F1 11 Tf
+36 512 Td
+0.200 0.200 0.200 rg
+(Repurpose the same post again in 6 months with updated examples or new) Tj
+ET
+BT
+/F1 11 Tf
+36 499 Td
+0.200 0.200 0.200 rg
+(angles. Your audience grows, new people join, and the content is still) Tj
+ET
+BT
+/F1 11 Tf
+36 486 Td
+0.200 0.200 0.200 rg
+(relevant. You'll get 50-70% of the original reach with 0 new writing.) Tj
+ET
+BT
+/F2 12 Tf
+36 463 Td
+0.251 0.251 0.251 rg
+(Variation 3: Evergreen Content Library) Tj
+ET
+BT
+/F1 11 Tf
+36 445 Td
+0.200 0.200 0.200 rg
+(Create a rotating repurposing calendar. Pick your 5-10 best-performing blog) Tj
+ET
+BT
+/F1 11 Tf
+36 432 Td
+0.200 0.200 0.200 rg
+(posts. Reframe and reshare each one every 6 months on a different angle.) Tj
+ET
+BT
+/F1 11 Tf
+36 419 Td
+0.200 0.200 0.200 rg
+(After 1 year, you have 50-100 pieces of social content without new blog) Tj
+ET
+BT
+/F1 11 Tf
+36 406 Td
+0.200 0.200 0.200 rg
+(writing.) Tj
+ET
+BT
+/F2 12 Tf
+36 383 Td
+0.251 0.251 0.251 rg
+(Variation 4: Lead Magnet Repurposing) Tj
+ET
+BT
+/F1 11 Tf
+36 365 Td
+0.200 0.200 0.200 rg
+(Turn the blog post into a PDF guide, checklist, or template. Add it to) Tj
+ET
+BT
+/F1 11 Tf
+36 352 Td
+0.200 0.200 0.200 rg
+(email capture on social posts. Use the blog → lead magnet → email sequence) Tj
+ET
+BT
+/F1 11 Tf
+36 339 Td
+0.200 0.200 0.200 rg
+(as your complete funnel.) Tj
+ET
+BT
+/F2 12 Tf
+36 316 Td
+0.251 0.251 0.251 rg
+(Variation 5: Community-Specific Angles) Tj
+ET
+BT
+/F1 11 Tf
+36 298 Td
+0.200 0.200 0.200 rg
+(Same core idea, but reframe for different communities. On Reddit's) Tj
+ET
+BT
+/F1 11 Tf
+36 285 Td
+0.200 0.200 0.200 rg
+(r/entrepreneurs, frame it as "how I did it." On r/copywriting, frame it as) Tj
+ET
+BT
+/F1 11 Tf
+36 272 Td
+0.200 0.200 0.200 rg
+(technique. On Twitter, frame it as contrarian. Same content, 3x audience) Tj
+ET
+BT
+/F1 11 Tf
+36 259 Td
+0.200 0.200 0.200 rg
+(reach.) Tj
+ET
+BT
+/F2 12 Tf
+36 236 Td
+0.251 0.251 0.251 rg
+(Variation 6: Sequential Release \(Content Drip\)) Tj
+ET
+BT
+/F1 11 Tf
+36 218 Td
+0.200 0.200 0.200 rg
+(Release repurposing over 4-6 weeks instead of at once. Week 1: Blog publish) Tj
+ET
+BT
+/F1 11 Tf
+36 205 Td
+0.200 0.200 0.200 rg
+(+ 1 LinkedIn post. Week 2: Twitter thread + 2 LinkedIn posts. Week 3:) Tj
+ET
+BT
+/F1 11 Tf
+36 192 Td
+0.200 0.200 0.200 rg
+(TikTok videos + email. Week 4: Webinar or case study. This keeps your) Tj
+ET
+BT
+/F1 11 Tf
+36 179 Td
+0.200 0.200 0.200 rg
+(content fresh in people's feeds and multiplies organic reach. ---) Tj
+ET
+BT
+/F2 16 Tf
+36 154 Td
+0.176 0.176 0.176 rg
+(Content Repurposing Metrics & ROI) Tj
+ET
+BT
+/F2 12 Tf
+36 124 Td
+0.251 0.251 0.251 rg
+(Baseline Metrics \(Without Repurposing\)) Tj
+ET
+BT
+/F1 11 Tf
+36 106 Td
+0.200 0.200 0.200 rg
+(- **Blog to traffic:** 500 views on publication - **Organic social reach) Tj
+ET
+BT
+/F1 11 Tf
+36 93 Td
+0.200 0.200 0.200 rg
+(per blog:** 100-200 people see it once - **Total audience exposure:**) Tj
+ET
+BT
+/F1 11 Tf
+36 80 Td
+0.200 0.200 0.200 rg
+(500-700 people) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792]
+   /Contents 24 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> >>
+endobj
+24 0 obj
+<< /Length 4734 >>
+stream
+BT
+/F2 12 Tf
+36 750 Td
+0.251 0.251 0.251 rg
+(Premium Prompt Results \(With Full Repurposing\)) Tj
+ET
+BT
+/F1 11 Tf
+36 732 Td
+0.200 0.200 0.200 rg
+(- **Blog views:** 500 \(original\) - **Social impressions:** 5,000-15,000) Tj
+ET
+BT
+/F1 11 Tf
+36 719 Td
+0.200 0.200 0.200 rg
+(\(20-30x multiplier across platforms\) - **Email reach:** 1,000-3,000 \(if you) Tj
+ET
+BT
+/F1 11 Tf
+36 706 Td
+0.200 0.200 0.200 rg
+(have a list\) - **Total audience exposure:** 8,000-20,000 people \(10-40x) Tj
+ET
+BT
+/F1 11 Tf
+36 693 Td
+0.200 0.200 0.200 rg
+(multiplier\)) Tj
+ET
+BT
+/F2 12 Tf
+36 670 Td
+0.251 0.251 0.251 rg
+(Efficiency Metrics) Tj
+ET
+BT
+/F1 11 Tf
+36 652 Td
+0.200 0.200 0.200 rg
+(- **Time to write blog:** 4-6 hours - **Time to repurpose \(with this) Tj
+ET
+BT
+/F1 11 Tf
+36 639 Td
+0.200 0.200 0.200 rg
+(prompt\):** 1-2 hours - **Cost per piece with repurposing:** 1/10th of cost) Tj
+ET
+BT
+/F1 11 Tf
+36 626 Td
+0.200 0.200 0.200 rg
+(without repurposing - **Content pieces generated per blog:** 15-25) Tj
+ET
+BT
+/F2 12 Tf
+36 603 Td
+0.251 0.251 0.251 rg
+(Revenue Impact Examples) Tj
+ET
+BT
+/F1 11 Tf
+36 585 Td
+0.200 0.200 0.200 rg
+(- **B2B SaaS \(repurposing 1 blog/week\):** - 1 blog = 15 social pieces =) Tj
+ET
+BT
+/F1 11 Tf
+36 572 Td
+0.200 0.200 0.200 rg
+(10,000 impressions - 4 blogs/month = 40,000 impressions - 0.5%) Tj
+ET
+BT
+/F1 11 Tf
+36 559 Td
+0.200 0.200 0.200 rg
+(click-through to website = 200 visits - 5% email capture = 10 new email) Tj
+ET
+BT
+/F1 11 Tf
+36 546 Td
+0.200 0.200 0.200 rg
+(subscribers - 4 blogs × 10 subscribers = 40 new monthly subscribers - 5% of) Tj
+ET
+BT
+/F1 11 Tf
+36 533 Td
+0.200 0.200 0.200 rg
+(subscribers → customers = 2 customers/month - At $500/month ACV = $1,000) Tj
+ET
+BT
+/F1 11 Tf
+36 520 Td
+0.200 0.200 0.200 rg
+(MRR incremental from repurposing - **Creator/Freelancer \(personal brand) Tj
+ET
+BT
+/F1 11 Tf
+36 507 Td
+0.200 0.200 0.200 rg
+(play\):** - 1 blog + 15 repurposed pieces = 5-10K impressions - 20-50) Tj
+ET
+BT
+/F1 11 Tf
+36 494 Td
+0.200 0.200 0.200 rg
+(profile visits - 2-5 DM inquiries - 1-2 consulting calls = $2,000-$5,000) Tj
+ET
+BT
+/F1 11 Tf
+36 481 Td
+0.200 0.200 0.200 rg
+(potential projects ---) Tj
+ET
+BT
+/F2 16 Tf
+36 456 Td
+0.176 0.176 0.176 rg
+(Advanced Pro Tips \(Maximizing Repurposing ROI\)) Tj
+ET
+BT
+/F1 11 Tf
+36 432 Td
+0.200 0.200 0.200 rg
+(**Tip 1: Create a Repurposing Template** Don't start from scratch each) Tj
+ET
+BT
+/F1 11 Tf
+36 419 Td
+0.200 0.200 0.200 rg
+(time. Create a simple spreadsheet: Blog title → 3 LinkedIn versions → 2) Tj
+ET
+BT
+/F1 11 Tf
+36 406 Td
+0.200 0.200 0.200 rg
+(Twitter angles → 1 email → 1 TikTok script. Reuse the template for every) Tj
+ET
+BT
+/F1 11 Tf
+36 393 Td
+0.200 0.200 0.200 rg
+(blog. This cuts repurposing time from 2 hours to 30 minutes. **Tip 2:) Tj
+ET
+BT
+/F1 11 Tf
+36 380 Td
+0.200 0.200 0.200 rg
+(Identify Your "Hero" Blog Posts** After publishing 10 blogs, analyze which) Tj
+ET
+BT
+/F1 11 Tf
+36 367 Td
+0.200 0.200 0.200 rg
+(3 got the most views, engagement, and conversions. Those are your heroes.) Tj
+ET
+BT
+/F1 11 Tf
+36 354 Td
+0.200 0.200 0.200 rg
+(Repurpose them aggressively: 4-6 times per year in different angles. You'll) Tj
+ET
+BT
+/F1 11 Tf
+36 341 Td
+0.200 0.200 0.200 rg
+(get 60% of your revenue from repurposing 20% of your content. **Tip 3:) Tj
+ET
+BT
+/F1 11 Tf
+36 328 Td
+0.200 0.200 0.200 rg
+(Cross-Pollinate Your Audiences** Email your LinkedIn posts and say "I also) Tj
+ET
+BT
+/F1 11 Tf
+36 315 Td
+0.200 0.200 0.200 rg
+(shared this on Twitter \(link\)." Share your best emails on LinkedIn. Share) Tj
+ET
+BT
+/F1 11 Tf
+36 302 Td
+0.200 0.200 0.200 rg
+(your email to your community on Twitter. This drives cross-platform) Tj
+ET
+BT
+/F1 11 Tf
+36 289 Td
+0.200 0.200 0.200 rg
+(awareness. People follow you everywhere, not just one platform. **Tip 4:) Tj
+ET
+BT
+/F1 11 Tf
+36 276 Td
+0.200 0.200 0.200 rg
+(Create Cohesive Series** Instead of repurposing 1 blog, repurpose 3 related) Tj
+ET
+BT
+/F1 11 Tf
+36 263 Td
+0.200 0.200 0.200 rg
+(blogs as a series. Email subject: "3 mistakes that killed my business \(my) Tj
+ET
+BT
+/F1 11 Tf
+36 250 Td
+0.200 0.200 0.200 rg
+(honest breakdown\)." Email 1 links to article 1. Email 2 links to article 2.) Tj
+ET
+BT
+/F1 11 Tf
+36 237 Td
+0.200 0.200 0.200 rg
+(Email 3 links to article 3. Series format gets 20-30% higher engagement) Tj
+ET
+BT
+/F1 11 Tf
+36 224 Td
+0.200 0.200 0.200 rg
+(than standalone posts. **Tip 5: Always Link Back to the Blog** Every social) Tj
+ET
+BT
+/F1 11 Tf
+36 211 Td
+0.200 0.200 0.200 rg
+(piece should include a link back to the full article. This drives blog) Tj
+ET
+BT
+/F1 11 Tf
+36 198 Td
+0.200 0.200 0.200 rg
+(traffic \(SEO\), keeps people on your site longer, and lets Google see your) Tj
+ET
+BT
+/F1 11 Tf
+36 185 Td
+0.200 0.200 0.200 rg
+(blog is important. Social is the driver; blog is the destination.) Tj
+ET
+endstream
+endobj
+xref
+0 25
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000189 00000 n 
+0000005601 00000 n 
+0000011190 00000 n 
+0000016961 00000 n 
+0000022252 00000 n 
+0000027168 00000 n 
+0000032730 00000 n 
+0000038612 00000 n 
+0000043910 00000 n 
+0000049078 00000 n 
+0000054006 00000 n 
+0000000432 00000 n 
+0000005844 00000 n 
+0000011433 00000 n 
+0000017204 00000 n 
+0000022495 00000 n 
+0000027411 00000 n 
+0000032973 00000 n 
+0000038856 00000 n 
+0000044154 00000 n 
+0000049322 00000 n 
+0000054250 00000 n 
+trailer
+<< /Size 25 /Root 1 0 R >>
+startxref
+59073
+%%EOF
